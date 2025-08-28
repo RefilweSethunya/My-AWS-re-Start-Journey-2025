@@ -2,11 +2,11 @@
 
 ## Primary Storage Types
 - Object storage
-  AWS S3
+  e.g AWS S3
 - Block storage
-  Amazon EBS, Amazon EC2 instance stores and FSx for ONTAP block storage over iSCSI
+  e.g Amazon EBS, Amazon EC2 instance stores and FSx for ONTAP block storage over iSCSI
 - File storage
-  Amazon EFS, AWS FSx for Windows/OpenZFS
+  e.g Amazon EFS, AWS FSx for Windows/OpenZFS
 
 ## Use Cases
 - S3 for static websites and file backups
