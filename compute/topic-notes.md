@@ -19,7 +19,7 @@ Compute is the processing power that lets your application run. In the cloud, th
 - AWS Elastic Beanstalk
   Runs web apps and services developed in languages such as Java, .NET, PHP, Node.js, Python, Ruby, Go and Docker.
 
-###Serverless
+### Serverless
 - AWS Lambda
   Runs Java, Go, PowerShell, Node.Js, C#
 - AWS Fargate
