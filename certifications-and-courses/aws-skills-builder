@@ -1,0 +1,19 @@
+AWS Skills Builder Courses
+
+A growing collection of courses I’ve completed on AWS Skills Builder as part of my AWS learning journey.  
+  
+
+Status | Course Name | Key Takeaway
+-------|-------------|--------------
+✅     | AWS Compute Services Overview | I compared EC2, Lambda, and containers for cost and scalability
+✅     | Introduction to AWS Identity and Access Management (IAM) | I learned user, role, and policy management with least-privilege
+✅     | Introduction to Containers | I grasped Docker basics and AWS container services (ECS/EKS)
+✅     | AWS Cloud Quest: Cloud Practitioner | I practiced core AWS services through gamified labs
+🟡     | AWS SimuLearn: Networking Concepts | In Progress
+🟡     | AWS SimuLearn: Core Security Concepts| In Progress
+
+Certificates   
+- AWS Compute Services Overview (link-to-certificate)
+- Introduction to AWS Identity and Access Management (IAM)
+- Introduction to Containers 
+- AWS Cloud Quest: Cloud Practitioner
