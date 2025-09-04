@@ -60,7 +60,7 @@ Status | Course Name | Key Takeaway
 
 ## Certificates  
 All completed course certificates (PDFs) can be accessed here: 
-- AWS Compute Services Overview [View Certificate](../certificates/aws-compute-services-overview.pdf)
+- AWS Compute Services Overview [View Certificate](./certificates/aws-compute-services-overview.pdf)
 
 - Introduction to AWS Identity and Access Management (IAM)
 - Introduction to Containers 
