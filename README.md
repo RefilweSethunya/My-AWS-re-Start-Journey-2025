@@ -62,9 +62,9 @@ Status | Course Name | Key Takeaway
 All completed course certificates (PDFs) can be accessed here: 
 - AWS Compute Services Overview [View Certificate](./certifications-and-courses/certificates/aws-compute-services-overview.pdf)
 
-- Introduction to AWS Identity and Access Management (IAM)
-- Introduction to Containers 
-- AWS Cloud Quest: Cloud Practitioner
+- Introduction to AWS Identity and Access Management (IAM) [View Certificate](./certifications-and-courses/certificates/introduction-to-aws-iam.pdf)
+- Introduction to Containers [View Certificate](./certifications-and-courses/certificates/introduction-to-containers.pdf)
+- AWS Cloud Quest: Cloud Practitioner [View Certificate](./certifications-and-courses/certificates/aws-cloud-quest-cloud-practitioner.pdf)
 
 ## Resources
 
