@@ -13,7 +13,7 @@ This file serves as a central index of all labs, sorted by AWS module. Making it
 - [Lab 04: Working with EBS Volumes](.
 
 ## Databases
-- [Lab 05: Deploying RDS MySQL](/databases/database-labs/database-lab-1.md)
+- [Lab 05: Deploying RDS MySQL](/databases/databases-labs/databases-lab-1.md)
 - [Lab 06: Exploring DynamoDB](
 
 ## Networking
