@@ -26,10 +26,10 @@ It serves as:
 
 ## Topics Covered
 
-- [Compute](./compute/topic-notes.md)
-- [Storage](./storage/topic-notes.md)
-- [Databases](./databases/database-design.md)
-- [Resources](./resources/helpful-links.md)
+- [Compute](/compute/topic-notes.md)
+- [Storage](/storage/topic-notes.md)
+- [Databases](/databases/database-design.md)
+- [Resources](/resources/helpful-links.md)
 
 ---
 
@@ -60,11 +60,11 @@ Status | Course Name | Key Takeaway
 
 ## Certificates  
 All completed course certificates (PDFs) can be accessed here: 
-- AWS Compute Services Overview [View Certificate](./certifications-and-courses/certificates/aws-compute-services-overview.pdf)
+- AWS Compute Services Overview [View Certificate](/certifications-and-courses/certificates/aws-compute-services-overview.pdf)
 
-- Introduction to AWS Identity and Access Management (IAM) [View Certificate](./certifications-and-courses/certificates/introduction-to-aws-iam.pdf)
-- Introduction to Containers [View Certificate](./certifications-and-courses/certificates/introduction-to-containers.pdf)
-- AWS Cloud Quest: Cloud Practitioner [View Certificate](./certifications-and-courses/certificates/aws-cloud-quest-cloud-practitioner.pdf)
+- Introduction to AWS Identity and Access Management (IAM) [View Certificate](/certifications-and-courses/certificates/introduction-to-aws-iam.pdf)
+- Introduction to Containers [View Certificate](/certifications-and-courses/certificates/introduction-to-containers.pdf)
+- AWS Cloud Quest: Cloud Practitioner [View Certificate](/certifications-and-courses/certificates/aws-cloud-quest-cloud-practitioner.pdf)
 
 ## Resources
 
