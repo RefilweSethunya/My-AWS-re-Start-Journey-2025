@@ -1,35 +1,76 @@
-# My Restart Graduate Journey
+# My AWS re/Start Journey
 
-This repository is a guide and template to help Restart graduates document what they’ve learned throughout the program. It includes sample folders, notes, and lab examples for each major topic: Compute, Storage, Databases, and more.
+This repo contains my personal notes, labs, and projects from the AWS re/Start program. It includes sample folders, notes, and lab examples for each major topic: Compute, Storage, Databases and more.
 
-## Why This Repo?
+It serves as:  
+- A **knowledge base** I can refer back to  
+- A **portfolio** showcasing my labs and progress  
+- Evidence of my **commitment to continuous learning** in cloud and IT
 
-- Helps you build a habit of technical documentation
-- Serves as a personal knowledge base
-- Becomes a portfolio you can share with recruiters
-- Teaches you Git, GitHub, Markdown, and professional writing
+---
 
-## How to Use This Repo
+## Progress Tracker
 
-1. Fork this repository into your GitHub account
-2. Replace the sample notes with your own
-3. Push your changes regularly
-4. Link this repo on your LinkedIn profile (see below)
+- [x] Week 1 – Introduction to AWS  
+- [x] Week 2 – Cloud Basics & AWS Compute Services
+- [x] Week 3 – Linux & AWS Storage Services   
+- [x] Week 4 – AWS Database, Storage and Analytics services
+- [x] Week 5 – AWS Networking and Content Delivery services  
+- [ ] Week 6 – AWS Security services
+- [ ] Week 7 - Management Tools
+- [ ] Week 8 - AWS Application & Migration Services
+- [ ] Week 9 - AWS Developer Tools and Machine Learning
+- [ ] Weeks 10,11,12 - Final Project & Exam Prep
 
-## Topics
+---
+
+## Topics Covered
 
 - [Compute](./compute/topic-notes.md)
 - [Storage](./storage/topic-notes.md)
 - [Databases](./databases/database-design.md)
 - [Resources](./resources/helpful-links.md)
 
-## Bonus: Publish a GitHub Pages Site
+---
 
-You can even turn this into a personal portfolio site. Go to Settings → Pages → Deploy from Branch → `main`, `/ (root)`.  
-GitHub will generate a public link for you.
+## Reflection
 
-## Want to Learn Markdown?
+Through AWS re/Start, I am learning not only technical cloud skills but also professional practices such as version control with GitHub, technical documentation and troubleshooting. This repo demonstrates my ability to **learn, apply and share** cloud knowledge in a structured way.  
 
-- [Markdown Basics on GitHub Docs](https://docs.github.com/en/get-started/writing-on-github)
-- [Interactive Markdown Tutorial](https://www.markdowntutorial.com/)
-- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+---
+
+## Next Steps
+
+- Continue documenting weekly labs and notes  
+- Build a small cloud project integrating multiple AWS services  
+- Prepare for the **AWS Certified Cloud Practitioner** exam  
+
+---
+## AWS Skills Builder Courses
+A growing collection of courses I’ve completed on AWS Skills Builder as part of my AWS learning journey.  
+  
+Status | Course Name | Key Takeaway
+-------|-------------|--------------
+✅     | AWS Compute Services Overview | I compared EC2, Lambda, and containers for cost and scalability
+✅     | Introduction to AWS Identity and Access Management (IAM) | I learned user, role, and policy management with least privilege
+✅     | Introduction to Containers | I grasped Docker basics and AWS container services (ECS/EKS)
+✅     | AWS Cloud Quest: Cloud Practitioner | I practiced core AWS services through gamified labs
+🟡     | AWS SimuLearn: Networking Concepts | In Progress
+🟡     | AWS SimuLearn: Core Security Concepts| In Progress
+
+## Certificates  
+All completed course certificates (PDFs) can be accessed here: 
+- AWS Compute Services Overview [View Certificate](./certifications-and-courses/certificates/aws-compute-services-overview.pdf)
+
+- Introduction to AWS Identity and Access Management (IAM) [View Certificate](./certifications-and-courses/certificates/introduction-to-aws-iam.pdf)
+- Introduction to Containers [View Certificate](./certifications-and-courses/certificates/introduction-to-containers.pdf)
+- AWS Cloud Quest: Cloud Practitioner [View Certificate](./certifications-and-courses/certificates/aws-cloud-quest-cloud-practitioner.pdf)
+
+## Resources
+
+- [AWS Training & Certification](https://aws.amazon.com/training/)  
+- [AWS Documentation](https://docs.aws.amazon.com/)  
+- [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
+- [AWS Skills Builder Training](https://explore.skillbuilder.aws/)
+- [AWS Policy Generator Tool](https://awspolicygen.s3.amazonaws.com/policygen.html)
+- ..
