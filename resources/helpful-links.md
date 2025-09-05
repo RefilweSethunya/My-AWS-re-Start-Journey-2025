@@ -13,7 +13,9 @@
 - https://www.db-fiddle.com/
 
 ## AWS Services
-- https://docs.aws.amazon.com/
-- https://explore.skillbuilder.aws/ (AWS training)
-- https://awspolicygen.s3.amazonaws.com/policygen.html (AWS Policy Generator tool to create IAM/S3/SNS/VPC/SQS policies)
-- ..
+- [AWS Training & Certification](https://aws.amazon.com/training/)  
+- [AWS Documentation](https://docs.aws.amazon.com/)  
+- [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
+- [AWS Skills Builder Training](https://explore.skillbuilder.aws/)
+- [AWS Policy Generator Tool](https://awspolicygen.s3.amazonaws.com/policygen.html)
+- .. 
