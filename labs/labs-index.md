@@ -5,7 +5,7 @@ This file serves as a central index of all labs, sorted by AWS module. Making it
 ---
 
 ## Compute
-- [Lab 01: Launching Your First EC2 Instance](compute/compute-labs/compute-lab-1.md)
+- [Lab 01: Launching Your First EC2 Instance](/compute/compute-labs/compute-lab-1.md)
 - [Lab 02: Configuring Auto Scaling Groups](
 
 ## Storage
