@@ -9,7 +9,7 @@ This file serves as a central index of all labs, sorted by AWS module. Making it
 - [Lab 02: Configuring Auto Scaling Groups](./lab02-auto-scaling.md)
 
 ## Storage
-- [Lab 03: Creating and Managing S3 Buckets](./storage/storage-labs/storage-lab-1.md)
+- [Lab 03: Creating and Managing S3 Buckets](/storage/storage-labs/storage-lab-1.md)
 - [Lab 04: Working with EBS Volumes](./lab04-ebs.md)
 
 ## Databases
