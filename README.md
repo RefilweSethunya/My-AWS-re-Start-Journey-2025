@@ -70,4 +70,7 @@ All completed course certificates (PDFs) can be accessed here:
 
 - [AWS Training & Certification](https://aws.amazon.com/training/)  
 - [AWS Documentation](https://docs.aws.amazon.com/)  
-- [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)  
+- [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
+- [AWS training](https://explore.skillbuilder.aws/)
+- [AWS Policy Generator tool](https://awspolicygen.s3.amazonaws.com/policygen.html)
+- .. 
