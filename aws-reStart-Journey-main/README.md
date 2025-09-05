@@ -28,7 +28,9 @@ It serves as:
 
 - [Compute](/compute/topic-notes.md)
 - [Storage](/storage/topic-notes.md)
-- [Databases](/databases/database-design.md)
+- [Databases](/databases/topic-notes.md)
+- [Security](/security/topic-notes.md)
+- [Networking](/networking/topic-notes.md)
 - [Resources](/resources/helpful-links.md)
 
 ---
