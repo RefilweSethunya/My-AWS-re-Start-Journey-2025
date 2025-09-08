@@ -16,11 +16,12 @@ It serves as:
 - [x] Week 3 – Linux & AWS Storage Services   
 - [x] Week 4 – AWS Database, Storage and Analytics services
 - [x] Week 5 – AWS Networking and Content Delivery services  
-- [ ] Week 6 – AWS Security services
-- [ ] Week 7 - Management Tools
-- [ ] Week 8 - AWS Application & Migration Services
-- [ ] Week 9 - AWS Developer Tools and Machine Learning
-- [ ] Weeks 10,11,12 - Final Project & Exam Prep
+- [x] Week 6 – AWS Security services Part 1
+- [ ] Week 7 - AWS Security services Part 2
+- [ ] Week 8 - Management Tools
+- [ ] Week 9 - AWS Application & Migration Services
+- [ ] Week 10 - AWS Developer Tools and Machine Learning
+- [ ] Weeks 11,12 - Final Project & Exam Prep
 
 ---
 
