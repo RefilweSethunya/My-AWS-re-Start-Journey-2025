@@ -37,7 +37,7 @@ It serves as:
 
 ## Reflection
 
-Through AWS re/Start, I am learning not only technical cloud skills but also professional practices such as version control with GitHub, technical documentation and troubleshooting. This repo demonstrates my ability to **learn, apply and share** cloud knowledge in a structured way.  
+Through AWS re/Start, I am learning technical cloud skills as well as professional practices such as version control with GitHub, technical documentation and troubleshooting. This repo demonstrates my ability to **learn, apply and share** cloud knowledge in a structured way.  
 
 ---
 
