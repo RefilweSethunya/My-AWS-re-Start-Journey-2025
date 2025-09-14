@@ -21,7 +21,7 @@ This file serves as a central index of all labs, sorted by AWS module. Making it
 - [Lab 08: Load Balancers and Route 53](
 
 ## Security
-- [Lab 09: IAM Users and Policies](/security/security-labs/security-lab-1.md)
+- [Lab 09: Using Amazon Inspector for vulnerability assesment and remediation](/security/security-labs/security-lab-1.md)
 - [Lab 10: CloudTrail and Config](
 
 ---
