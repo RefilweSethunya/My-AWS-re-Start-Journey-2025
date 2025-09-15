@@ -37,7 +37,16 @@ It serves as:
 
 ---
 
-## Reflection
+## Projects
+
+### ECommerce Platform Architecture
+- **Goal:** Design a scalable, secure, highly available AWS architecture for a global e-commerce web application
+- **Highlights:** Multi-AZ deployment, auto-scaling, CDN caching, IAM security, cost-optimized managed services
+- [View Project](projects/project-1/README.md)
+
+---
+
+## Reflections
 
 Through AWS re/Start, I am learning technical cloud skills as well as professional practices such as version control with GitHub, technical documentation and troubleshooting. This repo demonstrates my ability to **learn, apply and share** cloud knowledge in a structured way.  
 
