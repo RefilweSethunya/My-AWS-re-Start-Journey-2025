@@ -25,6 +25,7 @@ A key requirement was that it must support **millions of global users** with spe
 **Edit diagram (source file):** [Download ecommerceapplication.drawio](ecommerceapplication.drawio)
 
 **Open in diagrams.net:** [Edit in Draw.io](https://app.diagrams.net/?mode=github#HRefilweSethunya/My-AWS-re-Start-Journey-2025/projects/project-1/ecommerceapplication.drawio)
+
 ---
 
 ## Key AWS Services Used
