@@ -1,6 +1,6 @@
 # My AWS re/Start Journey
 
-This repo contains my personal notes, labs, and projects from the AWS re/Start program. It includes sample folders, notes, and lab examples for each major topic: Compute, Storage, Databases and more.
+This repo contains my personal notes, labs, and projects from the AWS re/Start program. It contains my personal notes, completed labs, and projects demonstrating applied AWS skills.
 
 It serves as:  
 - A **knowledge base** I can refer back to  
@@ -22,6 +22,7 @@ It serves as:
 - [ ] Week 9 - AWS Application & Migration Services
 - [ ] Week 10 - AWS Developer Tools and Machine Learning
 - [ ] Weeks 11,12 - Final Project & Exam Prep
+- [ ] AWS Certified Cloud Practitioner – Exam PASS 🎉  
 
 ---
 
