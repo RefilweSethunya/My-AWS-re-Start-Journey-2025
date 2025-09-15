@@ -4,7 +4,7 @@ This repo contains my personal notes, labs, and projects from the AWS re/Start p
 
 It serves as:  
 - A **knowledge base** I can refer back to  
-- A **portfolio** showcasing my [labs](/labs/labs-index.md), [projects] and progress  
+- A **portfolio** showcasing my [labs](/labs/labs-index.md), [projects](/projects/projects.md) and progress  
 - Evidence of my **commitment to continuous learning** in cloud and IT
 
 ---
