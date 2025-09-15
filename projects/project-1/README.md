@@ -22,6 +22,7 @@ A key requirement was that it must support **millions of global users** with spe
 
 *Click to view the zoomable SVG version.*  
 
+**Edit diagram (editable source):** [Open ecommerceapplication.drawio in diagrams.net (see instructions below)](ecommerceapplication.drawio)
 ---
 
 ## Key AWS Services Used
