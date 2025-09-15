@@ -1,6 +1,6 @@
-# Resources I Used in My AWS re/Start Journey
+# Resources
 
-I relied on the below links while completing labs, projects and exercises throughout AWS re/Start.
+I relied on the below links while completing labs, projects and exercises throughout my AWS re/Start journey.
 
 ---
 
