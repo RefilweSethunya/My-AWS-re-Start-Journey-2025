@@ -18,9 +18,11 @@ A key requirement was that it must support **millions of global users** with spe
 ---
 
 ## Architecture Diagram
-[<img src="ecommerceapplication.drawio.png" alt="AWS 3D E-Commerce Architecture" width="800"/>](ecommerceapplication.drawio.svg)  
 
 *Click to view the zoomable SVG version.*  
+[<img src="ecommerceapplication.drawio.png" alt="AWS 3D E-Commerce Architecture" width="800"/>](ecommerceapplication.drawio.svg)  
+
+OR
 
 **Edit diagram (source file):** [Download ecommerceapplication.drawio](ecommerceapplication.drawio)
 
