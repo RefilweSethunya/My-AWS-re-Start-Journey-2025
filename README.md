@@ -26,12 +26,12 @@ It serves as:
 
 ---
 
-## Project Showcase
+## Projects Showcase
 
 ### ECommerce Platform Architecture
 - **Goal:** Design a scalable, secure, highly available AWS architecture for a global e-commerce web application
 - **Highlights:** Multi-AZ deployment, auto-scaling, CDN caching, IAM security, cost-optimized managed services
-- ...insert png file here that when clicked it links to zoomable svg file tomorrow:D
+- [<img src="projects/project-1/ecommerceapplication.drawio.png" alt="3D E-Commerce Architecture" width="600"/>](projects/project-1/ecommerceapplication.drawio.svg)
 - [View Project](projects/project-1/README.md)
 
 ---
