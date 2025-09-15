@@ -2,11 +2,11 @@
 
 This portfolio highlights my hands-on projects. Click the links to view detailed documentation, diagrams and key learnings.  
 
-| # | Project Name | Type / Skills | Key Highlights | Link |
-|---|--------------|---------------|----------------|------|
-| 1 | Global E-Commerce Web Application Architecture | Cloud Architecture / AWS | Multi-AZ EC2, S3 storage, RDS & Elasticache, VPC, CloudFront caching, monitoring & security | [View Project](../projects/project-1/README.md) |
-| 2 | TBD | TBD | TBD | TBD|
+| # | Project Name | Skills / Focus Area | Key Highlights | Link |
+|---|--------------|----------------------|----------------|------|
+| 1 | **3D E-Commerce Web Application Architecture** | AWS Cloud Architecture | Global-scale, highly available design with CloudFront, Route 53, Auto Scaling, RDS (Multi-AZ), ElastiCache, centralized governance via AWS Organizations, Control Tower & Firewall Manager | [View Project](../projects/project-1/README.md)  |
+| 2 | TBD | TBD | TBD | TBD |
 
 ---
 
-As I progress through AWS re/Start and other projects, I will continue to update this table with new projects.
+✨ I’m continuously updating this portfolio as I progress through **AWS re/Start** and other real-world projects.
