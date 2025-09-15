@@ -26,6 +26,16 @@ It serves as:
 
 ---
 
+## Project Showcase
+
+### ECommerce Platform Architecture
+- **Goal:** Design a scalable, secure, highly available AWS architecture for a global e-commerce web application
+- **Highlights:** Multi-AZ deployment, auto-scaling, CDN caching, IAM security, cost-optimized managed services
+- ...insert png file here that when clicked it links to zoomable svg file tomorrow:D
+- [View Project](projects/project-1/README.md)
+
+---
+
 ## Topics Covered
 
 - [Compute](/compute/topic-notes.md)
@@ -37,28 +47,6 @@ It serves as:
 
 ---
 
-## Projects
-
-### ECommerce Platform Architecture
-- **Goal:** Design a scalable, secure, highly available AWS architecture for a global e-commerce web application
-- **Highlights:** Multi-AZ deployment, auto-scaling, CDN caching, IAM security, cost-optimized managed services
-- [View Project](projects/project-1/README.md)
-
----
-
-## Reflections
-
-Through AWS re/Start, I am learning technical cloud skills as well as professional practices such as version control with GitHub, technical documentation and troubleshooting. This repo demonstrates my ability to **learn, apply and share** cloud knowledge in a structured way.  
-
----
-
-## Next Steps
-
-- Continue documenting weekly labs and notes  
-- Build a small cloud project integrating multiple AWS services  
-- Prepare for the **AWS Certified Cloud Practitioner** exam  
-
----
 ## AWS Skills Builder Courses
 A growing collection of courses I’ve completed on AWS Skills Builder as part of my AWS learning journey.  
   
@@ -79,11 +67,27 @@ All completed course certificates (PDFs) can be accessed here:
 - Introduction to Containers [View Certificate](./certifications-and-courses/certificates/introduction-to-containers.pdf)
 - AWS Cloud Quest: Cloud Practitioner [View Certificate](./certifications-and-courses/certificates/aws-cloud-quest-cloud-practitioner.pdf)
 
+---
+
+## Reflections
+
+Through AWS re/Start, I am learning technical cloud skills as well as professional practices such as version control with GitHub, technical documentation and troubleshooting. This repo demonstrates my ability to **learn, apply and share** cloud knowledge in a structured way.  
+
+---
+
+## Next Steps
+
+- Continue documenting weekly labs and notes  
+- Build a small cloud project integrating multiple AWS services  
+- Prepare for the **AWS Certified Cloud Practitioner** exam
+- Prepare for additional AWS certifications 
+
+---
+
 ## Resources
 
 - [AWS Training & Certification](https://aws.amazon.com/training/)  
 - [AWS Documentation](https://docs.aws.amazon.com/)  
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
 - [AWS Skills Builder Training](https://explore.skillbuilder.aws/)
-- [AWS Policy Generator Tool](https://awspolicygen.s3.amazonaws.com/policygen.html)
-- .. 
+ 
