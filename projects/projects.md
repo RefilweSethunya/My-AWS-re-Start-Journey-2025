@@ -4,7 +4,7 @@ This portfolio highlights my hands-on projects. Click the links to view detailed
 
 | # | Project Name | Type / Skills | Key Highlights | Link |
 |---|--------------|---------------|----------------|------|
-| 1 | Global E-Commerce Web App Architecture | Cloud Architecture / AWS | Multi-AZ EC2, S3 storage, RDS & DynamoDB, VPC, CloudFront caching, monitoring & security | [View Project](projects/project-1/README.md) |
+| 1 | Global E-Commerce Web Application Architecture | Cloud Architecture / AWS | Multi-AZ EC2, S3 storage, RDS & Elasticache, VPC, CloudFront caching, monitoring & security | [View Project](projects/project-1/README.md) |
 | 2 | TBD | TBD | TBD | TBD|
 
 ---
