@@ -5,12 +5,13 @@ This file serves as a central index of all labs, sorted by AWS module. Making it
 ---
 
 ## Compute
-- [Lab 01: Launching Your First EC2 Instance](/compute/compute-labs/compute-lab-1.md)
-- [Lab 02: Configuring Auto Scaling Groups](
+- [Lab 01: Introduction to Amazon EC2](../compute/compute-labs/compute-lab-1.md)
+- 
 
 ## Storage
-- [Lab 03: Creating and Managing S3 Buckets](/storage/storage-labs/storage-lab-1.md)
-- [Lab 04: Working with EBS Volumes](.
+- [Lab 02: Creating and Managing S3 Buckets](../storage/storage-labs/storage-lab-1.md)
+- [Lab 04: Managing Storage](../storage/storage-labs/storage-lab-2.md)
+- [Lab 04: S3 Exercise](../storage/storage-labs/storage-lab-3.md)
 
 ## Databases
 - [Lab 05: Deploying RDS MySQL](/databases/databases-labs/databases-lab-1.md)
