@@ -19,14 +19,18 @@ This file serves as a central index of all labs, sorted by AWS module. Making it
 ## Networking
 - [Lab 07: Internet Protocols - Public and Private IP addresses](../networking/networking-labs/networking-lab-1.md)
 - [Lab 08: Static and Dynamic and IP addresses](../networking/networking-labs/networking-lab-2.md)
-- [Lab 08: Create Subnets in a VPC](../networking/networking-labs/networking-lab-3.md)
-- [Lab 08: Networking resources for a VPC](../networking/networking-labs/networking-lab-4.md)
-- [Lab 08: Internet Protocol Troubleshooting Commands](../networking/networking-labs/networking-lab-5.md)
-- [Lab 08: Troubleshooting a Network Issue](../networking/networking-labs/networking-lab-6.md)
-- [Lab 08: Build your VPC and Launch a Web Server](../networking/networking-labs/networking-lab-7.md)
+- [Lab 09: Create Subnets in a VPC](../networking/networking-labs/networking-lab-3.md)
+- [Lab 10: Networking resources for a VPC](../networking/networking-labs/networking-lab-4.md)
+- [Lab 11: Internet Protocol Troubleshooting Commands](../networking/networking-labs/networking-lab-5.md)
+- [Lab 12: Troubleshooting a Network Issue](../networking/networking-labs/networking-lab-6.md)
+- [Lab 13: Build your VPC and Launch a Web Server](../networking/networking-labs/networking-lab-7.md)
 
 ## Security
-- [Lab 09: Using Amazon Inspector for vulnerability assesment and remediation](/security/security-labs/security-lab-1.md)
-- [Lab 10: CloudTrail and Config](
+- [Lab 14: Using Amazon Inspector for vulnerability assesment and remediation](../security/security-labs/security-lab-1.md)
+- [Lab 15: Systems-Hardening](../security/security-labs/security-lab-2.md)
+- [Lab 16: Data Protection](../security/security-labs/security-lab-3.md)
+- [Lab 17: Introduction to Identity and Access Management (IAM)](../security/security-labs/security-lab-4.md)
+- [Lab 18: Firewall Malware](../security/security-labs/security-lab-5.md)
+- [Lab 19: Monitor an EC2 Instance](../security/security-labs/security-lab-6.md)
 
 ---
