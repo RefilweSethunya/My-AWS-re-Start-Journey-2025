@@ -14,8 +14,16 @@ This file serves as a central index of all labs, sorted by AWS module. Making it
 - [Lab 04: S3 Exercise](../storage/storage-labs/storage-lab-3.md)
 
 ## Databases
-- [Lab 05: Deploying RDS MySQL](/databases/databases-labs/databases-lab-1.md)
-- [Lab 06: Exploring DynamoDB](
+- [Lab 05: Database Table Operations](../databases/databases-labs/databases-lab-1.md)
+- [Lab 05: Insert, Update, and Delete Data in a Database](../databases/databases-labs/databases-lab-2.md)
+- [Lab 05: Selecting Data from a Database](../databases/databases-labs/databases-lab-3.md)
+- [Lab 05: Performing a Conditional Search](../databases/databases-labs/databases-lab-4.md)
+- [Lab 05: Working with Functions](../databases/databases-labs/databases-lab-5.md)
+- [Lab 05: Organizing Data](../databases/databases-labs/databases-lab-6.md)
+- [Lab 05: Build Your Database Server and Interact with Your DB Using an App](../databases/databases-labs/databases-lab-7.md)
+- [Lab 05: Introduction to Amazon Aurora](../databases/databases-labs/databases-lab-8.md)
+- [Lab 05: Introduction to Amazon DynamoDB](../databases/databases-labs/databases-lab-9.md)
+- [Lab 05: Build and Access an RDS Server](../databases/databases-labs/databases-lab-10.md)
 
 ## Networking
 - [Lab 07: Internet Protocols - Public and Private IP addresses](../networking/networking-labs/networking-lab-1.md)
