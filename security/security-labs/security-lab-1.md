@@ -1,7 +1,7 @@
 # Security Lab: Using Amazon Inspector for vulnerability assesment and remediation
 
 ## Objective
-Activate Amazon Inspector, interpret the vulnerability reports, and remediate the findings.
+Network Hardening, Activate Amazon Inspector, interpret the vulnerability reports, and remediate the findings.
 
 ## Steps Taken
 1. Activated and configured Amazon Inspector
