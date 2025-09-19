@@ -17,7 +17,7 @@ This file serves as a central index of all labs, sorted by AWS module. Making it
 - [Lab 06: Exploring DynamoDB](
 
 ## Networking
-- [Lab 07: Setting Up a VPC](/networking/networking-labs/networking-lab-1.md)
+- [Lab 07: Internet Protocols - Public and Private IP addresses](../networking/networking-labs/networking-lab-1.md)
 - [Lab 08: Load Balancers and Route 53](
 
 ## Security
