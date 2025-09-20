@@ -1,4 +1,4 @@
-# Management, Monitoring and Automation Lab: Optimize Utilization
+# Management, Monitoring and Automation Lab: CloudFormation - Automating Deployments with AWS CloudFormation
 
 ## Objective
 Learn how to launch and SSH into an EC2 instance
