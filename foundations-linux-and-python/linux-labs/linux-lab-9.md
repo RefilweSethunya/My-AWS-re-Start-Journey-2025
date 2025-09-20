@@ -1,4 +1,4 @@
-# Linux Lab: Bash Shell Scripts
+# Linux Lab: Managing Processes
 
 ## Objective
 Learn how to launch and SSH into an EC2 instance
