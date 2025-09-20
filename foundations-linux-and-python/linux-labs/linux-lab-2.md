@@ -1,4 +1,4 @@
-# Networking Lab: Linux Command Line
+# Linux Lab: Linux Command Line
 
 ## Objective
 Learn how to launch and SSH into an EC2 instance
