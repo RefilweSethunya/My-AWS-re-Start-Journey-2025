@@ -13,6 +13,10 @@ FROM users
 JOIN orders ON users.id = orders.user_id
 WHERE orders.amount > 100;
 ```
+```sql
+SELECT * FROM customers WHERE country='Botswana';
+```
+
 ## Screenshot
 _(Optional – paste image if available)_
 
