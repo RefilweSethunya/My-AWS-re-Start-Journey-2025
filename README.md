@@ -1,6 +1,6 @@
 # My AWS re/Start Journey
 
-This repo contains my personal notes, labs, and projects from the AWS re/Start program. It contains my personal notes, completed labs, and projects demonstrating applied AWS skills.
+This repo contains my personal notes, completed labs, and projects demonstrating applied AWS skills from the AWS re/Start program.
 
 It serves as:  
 - A **knowledge base** I can refer back to  
