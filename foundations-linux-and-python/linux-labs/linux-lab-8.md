@@ -1,4 +1,4 @@
-# Linux Lab: The Bash Shell
+# Linux Lab: Working with Commands
 
 ## Objective
 Learn how to launch and SSH into an EC2 instance
