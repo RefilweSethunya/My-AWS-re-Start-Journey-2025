@@ -1,7 +1,10 @@
-# Database Lab: Writing SQL Queries
+# Databases Lab: Database Table Operations
 
 ## Objective
 Use SELECT, WHERE, and JOIN clauses on multiple tables
+
+## Steps Taken
+1. Logged into the AWS Management Console
 
 ## Sample Query
 ```sql
@@ -10,6 +13,13 @@ FROM users
 JOIN orders ON users.id = orders.user_id
 WHERE orders.amount > 100;
 ```
+## Screenshot
+_(Optional – paste image if available)_
 
-## Reflection
-JOINs were tricky at first. The key is understanding how tables relate to each other using foreign keys.
+## Challenges
+- 
+
+
+## Takeaways
+
+
