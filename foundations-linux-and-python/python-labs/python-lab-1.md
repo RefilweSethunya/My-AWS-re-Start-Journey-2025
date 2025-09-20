@@ -13,7 +13,7 @@ Learn how to launch and SSH into an EC2 instance
 - Forgot to open port 22 in the security group
 - Solved by editing the inbound rules
 
-## Sample Commands
+## Sample Script
 ```python def hello():
     print("Hello, Cloud World!")
 ```
