@@ -79,8 +79,8 @@ Where I focused on individual services before, now I see the bigger picture of h
 
 ## Next Steps
 
-- Continue documenting weekly labs and notes  
-- Build a small cloud project integrating multiple AWS services  
+- Continue documenting daily labs and notes  
+- Build and showcase cloud projects integrating multiple AWS services  
 - Prepare for the **AWS Certified Cloud Practitioner** exam
 - Prepare for additional AWS certifications 
 
