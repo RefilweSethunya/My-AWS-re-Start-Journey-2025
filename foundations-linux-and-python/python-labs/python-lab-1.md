@@ -14,6 +14,8 @@ Learn how to launch and SSH into an EC2 instance
 - Solved by editing the inbound rules
 
 ## Screenshot
-_(Optional – paste image if available)_
+```python def hello():
+    print("Hello, Cloud World!")
+```
 
 ## Takeaways
