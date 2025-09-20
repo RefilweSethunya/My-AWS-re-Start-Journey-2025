@@ -1,4 +1,4 @@
-# Linux Lab: Managing Services and Monitoring
+# Linux Lab: Managing File Permissions
 
 ## Objective
 Learn how to launch and SSH into an EC2 instance
