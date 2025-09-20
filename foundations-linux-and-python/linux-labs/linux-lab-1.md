@@ -1,4 +1,4 @@
-# Networking Lab: Introduction to Amazon Linux AMI
+# Linux Lab: Introduction to Amazon Linux AMI
 
 ## Objective
 Learn how to launch and SSH into an EC2 instance
