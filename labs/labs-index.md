@@ -55,14 +55,14 @@ This file serves as a central index of all of the labs I completed, sorted by AW
 
 
 ## Management, Monitoring & Automation
-- [Lab 38: Monitor an EC2 Instance](../mma/mma-labs/mma-lab-1.md)
-- [Lab 39: Monitoring Infrastructure](../mma/mma-labs/mma-lab-2.md)
-- [Lab 40: Working with AWS CloudTrail](../mma/mma-labs/mma-lab-3.md)
-- [Lab 41: Managing Resources with Tagging](../mma/mma-labs/mma-lab-4.md)
-- [Lab 42: Optimize Utilization](../mma/mma-labs/mma-lab-5.md)
-- [Lab 43: CloudFormation : Automating Deployments with AWS CloudFormation](../mma/mma-labs/mma-lab-5.md)
-- [Lab 44: CloudFormation : Troubleshooting AWS CloudFormation Deployments](../mma/mma-labs/mma-lab-7.md)
-- [Lab 45: CloudFormation : Introduction](../mma/mma-labs/mma-lab-8.md)
+- [Lab 38: Monitor an EC2 Instance](../management-monitoring-and-automation/mma-labs/mma-lab-1.md)
+- [Lab 39: Monitoring Infrastructure](../management-monitoring-and-automation/mma-labs/mma-lab-2.md)
+- [Lab 40: Working with AWS CloudTrail](../management-monitoring-and-automation/mma-labs/mma-lab-3.md)
+- [Lab 41: Managing Resources with Tagging](../management-monitoring-and-automation/mma-labs/mma-lab-4.md)
+- [Lab 42: Optimize Utilization](../management-monitoring-and-automation/mma-labs/mma-lab-5.md)
+- [Lab 43: CloudFormation : Automating Deployments with AWS CloudFormation](../management-monitoring-and-automation/mma-labs/mma-lab-5.md)
+- [Lab 44: CloudFormation : Troubleshooting AWS CloudFormation Deployments](../management-monitoring-and-automation/mma-labs/mma-lab-7.md)
+- [Lab 45: CloudFormation : Introduction](../management-monitoring-and-automation/mma-labs/mma-lab-8.md)
 
 ## Foundations : Linux and Python
 - [Lab 46: Linux : Introduction to Amazon Linux AMI](../foundations-linux-and-python/linux-labs/linux-lab-1.md)
@@ -97,7 +97,7 @@ This file serves as a central index of all of the labs I completed, sorted by AW
 - [Lab 75: Python : System administration with Python](../foundations-linux-and-python/python-labs/python-lab-15.md)
 - [Lab 76: Python : Using the debugger](../foundations-linux-and-python/python-labs/python-lab-16.md)
 - [Lab 77: Python : Debugging Hello World and Caesar Cipher](../foundations-linux-and-python/python-labs/python-lab-17.md)
-- [Lab 78: Python : Evaluate a DevOps Tool](../foundations-linux-and-python-labs/python/python-lab-18.md)
+- [Lab 78: Python : Evaluate a DevOps Tool](../foundations-linux-and-python/python/python-lab-18.md)
 - [Lab 79: Python : Explore the Value of Automation](../foundations-linux-and-python-labs/python/python-lab-19.md)
 - [Lab 80: Python : Compare and Contrast Automation and Orchestration](../foundations-linux-and-python/python-labs/python-lab-20.md)
 - [Lab 81: Python : Python Exercise](../foundations-linux-and-python/python-labs/python-lab-21.md)
