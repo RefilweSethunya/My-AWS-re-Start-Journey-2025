@@ -1,4 +1,4 @@
-# Storage Lab: Creating S3 bucket 
+# Storage Lab: Creating and Managing S3 Buckets 
 
 ## Objective
 Learn how to create a new bucket, upload an object and make it public.
