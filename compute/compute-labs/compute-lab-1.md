@@ -1,4 +1,4 @@
-# Compute Lab: Launching an EC2 Instance
+# Compute Lab: Introduction to Amazon EC2
 
 ## Objective
 Learn how to launch and SSH into an EC2 instance
