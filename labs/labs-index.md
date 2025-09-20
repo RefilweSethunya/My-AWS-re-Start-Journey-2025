@@ -60,7 +60,7 @@ This file serves as a central index of all of the labs I completed, sorted by AW
 - [Lab 40: Working with AWS CloudTrail](../management-monitoring-and-automation/mma-labs/mma-lab-3.md)
 - [Lab 41: Managing Resources with Tagging](../management-monitoring-and-automation/mma-labs/mma-lab-4.md)
 - [Lab 42: Optimize Utilization](../management-monitoring-and-automation/mma-labs/mma-lab-5.md)
-- [Lab 43: CloudFormation : Automating Deployments with AWS CloudFormation](../management-monitoring-and-automation/mma-labs/mma-lab-5.md)
+- [Lab 43: CloudFormation : Automating Deployments with AWS CloudFormation](../management-monitoring-and-automation/mma-labs/mma-lab-6.md)
 - [Lab 44: CloudFormation : Troubleshooting AWS CloudFormation Deployments](../management-monitoring-and-automation/mma-labs/mma-lab-7.md)
 - [Lab 45: CloudFormation : Introduction](../management-monitoring-and-automation/mma-labs/mma-lab-8.md)
 
