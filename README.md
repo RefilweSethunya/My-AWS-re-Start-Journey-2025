@@ -1,6 +1,6 @@
 # My AWS re/Start Journey
 
-This repo contains my personal notes, completed labs, and projects demonstrating applied AWS skills from the AWS re/Start program.
+This repo contains my personal notes, completed labs and projects demonstrating applied AWS skills from the AWS re/Start program.
 
 It serves as:  
 - A **knowledge base** I can refer back to  
@@ -43,7 +43,6 @@ It serves as:
 - [Databases](/awsrestart-main/databases/topic-notes.md)
 - [Security](/awsrestart-main/security/topic-notes.md)
 - [Networking](/awsrestart-main/networking/topic-notes.md)
-- [Resources](/awsrestart-main/resources/helpful-links.md)
 
 ---
 
@@ -62,7 +61,6 @@ Status | Course Name | Key Takeaway
 ## Certificates  
 All completed course certificates (PDFs) can be accessed here: 
 - AWS Compute Services Overview [View Certificate](/awsrestart-main/certifications-and-courses/certificates/aws-compute-services-overview.pdf)
-
 - Introduction to AWS Identity and Access Management (IAM) [View Certificate](/awsrestart-main/certifications-and-courses/certificates/introduction-to-aws-iam.pdf)
 - Introduction to Containers [View Certificate](/awsrestart-main/certifications-and-courses/certificates/introduction-to-containers.pdf)
 - AWS Cloud Quest: Cloud Practitioner [View Certificate](/awsrestart-main/certifications-and-courses/certificates/aws-cloud-quest-cloud-practitioner.pdf)
@@ -71,7 +69,11 @@ All completed course certificates (PDFs) can be accessed here:
 
 ## Reflections
 
-Through AWS re/Start, I am learning technical cloud skills as well as professional practices such as version control with GitHub, technical documentation and troubleshooting. This repo demonstrates my ability to **learn, apply and share** cloud knowledge in a structured way.  
+As I near the end of my AWS re/Start journey, I’m struck by how much I’ve grown. I started with lots of curiosity and week by week, the program built up my Linux and networking basic skills to databases, security and automation. The hands-on labs made cloud concepts tangible and boosted my confidence.
+
+Another big milestone was using GitHub for the first time. After working with version control, I see how powerful it is for tracking progress and working in a structured, professional way.
+
+Where I focused on individual services before, now I see the bigger picture of how each AWS service connects to build scalable, reliable systems. Beyond technical skills, I’ve gained perseverance, problem-solving and the confidence to think like a cloud practitioner.
 
 ---
 
@@ -90,4 +92,4 @@ Through AWS re/Start, I am learning technical cloud skills as well as profession
 - [AWS Documentation](https://docs.aws.amazon.com/)  
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
 - [AWS Skills Builder Training](https://explore.skillbuilder.aws/)
- 
+- [More Resources](/awsrestart-main/resources/helpful-links.md)
