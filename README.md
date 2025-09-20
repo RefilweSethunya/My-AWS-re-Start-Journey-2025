@@ -4,7 +4,7 @@ This repo contains my personal notes, completed labs, and projects demonstrating
 
 It serves as:  
 - A **knowledge base** I can refer back to  
-- A **portfolio** showcasing my [labs](/awsrestart-main/labs/labs-index.md), [projects](/projects/projects.md) and progress  
+- A **portfolio** showcasing my [labs](/awsrestart-main/labs/labs-index.md), [projects](/awsrestart-main/projects/projects.md) and progress  
 - Evidence of my **commitment to continuous learning** in cloud and IT
 
 ---
@@ -31,19 +31,19 @@ It serves as:
 ### ECommerce Platform Architecture
 - **Goal:** Design a scalable, secure, highly available AWS architecture for a global e-commerce web application
 - **Highlights:** Multi-AZ deployment, auto-scaling, CDN caching, IAM security, cost-optimized managed services
-[<img src="projects/project-1/ecommerceapplication.drawio.png" alt="3D E-Commerce Architecture" width="600"/>](projects/project-1/ecommerceapplication.drawio.svg)
-- [View Project](projects/project-1/README.md)
+[<img src="/awsrestart-main/projects/project-1/ecommerceapplication.drawio.png" alt="3D E-Commerce Architecture" width="600"/>](projects/project-1/ecommerceapplication.drawio.svg)
+- [View Project](/awsrestart-main/projects/project-1/README.md)
 
 ---
 
 ## Topics Covered
 
-- [Compute](/compute/topic-notes.md)
-- [Storage](/storage/topic-notes.md)
-- [Databases](/databases/topic-notes.md)
-- [Security](/security/topic-notes.md)
-- [Networking](/networking/topic-notes.md)
-- [Resources](./resources/helpful-links.md)
+- [Compute](/awsrestart-main/compute/topic-notes.md)
+- [Storage](/awsrestart-main/storage/topic-notes.md)
+- [Databases](/awsrestart-main/databases/topic-notes.md)
+- [Security](/awsrestart-main/security/topic-notes.md)
+- [Networking](/awsrestart-main/networking/topic-notes.md)
+- [Resources](/awsrestart-main/resources/helpful-links.md)
 
 ---
 
@@ -61,11 +61,11 @@ Status | Course Name | Key Takeaway
 
 ## Certificates  
 All completed course certificates (PDFs) can be accessed here: 
-- AWS Compute Services Overview [View Certificate](./certifications-and-courses/certificates/aws-compute-services-overview.pdf)
+- AWS Compute Services Overview [View Certificate](/awsrestart-main/certifications-and-courses/certificates/aws-compute-services-overview.pdf)
 
-- Introduction to AWS Identity and Access Management (IAM) [View Certificate](./certifications-and-courses/certificates/introduction-to-aws-iam.pdf)
-- Introduction to Containers [View Certificate](./certifications-and-courses/certificates/introduction-to-containers.pdf)
-- AWS Cloud Quest: Cloud Practitioner [View Certificate](./certifications-and-courses/certificates/aws-cloud-quest-cloud-practitioner.pdf)
+- Introduction to AWS Identity and Access Management (IAM) [View Certificate](/awsrestart-main/certifications-and-courses/certificates/introduction-to-aws-iam.pdf)
+- Introduction to Containers [View Certificate](/awsrestart-main/certifications-and-courses/certificates/introduction-to-containers.pdf)
+- AWS Cloud Quest: Cloud Practitioner [View Certificate](/awsrestart-main/certifications-and-courses/certificates/aws-cloud-quest-cloud-practitioner.pdf)
 
 ---
 
