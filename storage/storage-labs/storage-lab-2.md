@@ -1,4 +1,4 @@
-# Compute Lab: Managing Storage
+# Storage Lab: Managing Storage
 
 ## Objective
 
