@@ -10,8 +10,7 @@ Create a VPC with a private and public subnet, an internet gateway and a NAT gat
    - IPv4 CIDR: 10.0.0.0/16
    - Tenancy: Default
    - Actions > Edit VPC settings > DNS settings section > Enable DNS hostnames
-   - (EC2 instances launched into the VPC now automatically receive a public IPv4 Domain Name System (DNS) hostname)
-     
+   - (EC2 instances launched into the VPC now automatically receive a public IPv4 Domain Name System (DNS) hostname)    
 3. Created a public subnet
    - VPC ID: Lab VPC
    - Subnet name: Public Subnet
@@ -54,6 +53,33 @@ Create a VPC with a private and public subnet, an internet gateway and a NAT gat
     - Add route
       - Destination: 0.0.0.0/0
       - Target: NAT Gateway (dropdown list)
+Testing the private subnet
+10.  Launched an instance in the private subnet
+     - Name: Private Instance
+     - Quick Start: Choose Amazon Linux
+     - Amazon Machine Image (AMI): Amazon Linux 2023 AMI
+     - Instance type section: t3.micro
+     - Key pair (login): Proceed without a key pair (Not recommended)
+     - VPC: Lab VPC
+     - Subnet: Private Subnet (not the public subnet)
+     - Firewall (security groups): Create security group
+     - Security group name: Private Instance SG
+     - Description: Allow SSH from Bastion
+     - Inbound security groups rules:
+       - Type: SSH
+       - Source type: Custom | 10.0.0.0/16
+       - User data
+ ``` bash
+         #!/bin/bash
+# Turn on password authentication for lab challenge
+echo 'lab-password' | passwd ec2-user --stdin
+sed -i 's|[#]*PasswordAuthentication no|PasswordAuthentication yes|g' /etc/ssh/sshd_config
+systemctl restart sshd.service
+```
+11. Logged into the bastion server
+12. Logged into the private instance
+    
+
 
 ## Challenges
 - ...
@@ -97,6 +123,15 @@ NAT Gateway Configuration
 <img width="1366" height="637" alt="image" src="https://github.com/user-attachments/assets/0ab8e076-2803-4493-955e-7d51b266f512" />
 <img width="1366" height="639" alt="image" src="https://github.com/user-attachments/assets/30a22087-397c-493e-86cd-9cff9d768af8" />
 Resources in the private subnet that wish to communicate with the internet now have their network traffic directed to the NAT gateway, which forwards the request to the internet. Responses flow through the NAT gateway back to the private subnet.
+
+Bastion Server Configuration
+<img width="1366" height="431" alt="image" src="https://github.com/user-attachments/assets/0e62c179-ecd8-40d7-9457-49eb8bbd4400" />
+
+Bastion Server Login
+<img width="1366" height="639" alt="image" src="https://github.com/user-attachments/assets/0a263f3f-ef45-4e85-a8bd-a529e31534a1" />
+
+Private Server Login
+<img width="1366" height="643" alt="image" src="https://github.com/user-attachments/assets/3d84a269-6466-4b66-88f5-b29553b55394" />
 
 
 
