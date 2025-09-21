@@ -89,6 +89,8 @@ Security Group Configuration
 Launch Web Server Instance Configuration
 <img width="1366" height="645" alt="image" src="https://github.com/user-attachments/assets/10c8c3b4-b398-479b-8284-ce68d586f3f8" />
 <img width="1366" height="639" alt="image" src="https://github.com/user-attachments/assets/5b4fd04a-f16d-4c10-804f-7a0023168128" />
+Web Server Launched
+<img width="1216" height="428" alt="image" src="https://github.com/user-attachments/assets/a36274ae-b7dc-42c6-86d6-271936eb4db8" />
 
 
 ## Takeaways
