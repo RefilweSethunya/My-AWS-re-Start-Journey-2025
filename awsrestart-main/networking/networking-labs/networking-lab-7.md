@@ -67,7 +67,28 @@ service httpd start
 ## Screenshot
 VPC Configuration
 <img width="1366" height="641" alt="image" src="https://github.com/user-attachments/assets/8254f135-514f-45be-a3ef-48f7a12d6f42" />
+<img width="1366" height="639" alt="image" src="https://github.com/user-attachments/assets/faf3b140-926d-4c0f-a570-3acc411268db" />
+Additional Public Subnet Configuration
+<img width="1366" height="640" alt="image" src="https://github.com/user-attachments/assets/15aa8020-3dbf-4c62-9ff8-3eafd473696b" />
+<img width="1366" height="639" alt="image" src="https://github.com/user-attachments/assets/a6de9d4a-b2fc-4d70-a408-78dd943ca62a" />
 
+Additional Private Subnet Configuration
+<img width="1366" height="638" alt="image" src="https://github.com/user-attachments/assets/51cbc0c7-59b1-46dd-87f5-57bc30f6cb3b" />
+<img width="1366" height="641" alt="image" src="https://github.com/user-attachments/assets/4e5fa97e-0824-44ec-b52e-f60908fb5384" />
+
+Route Tables>Public Route Table>Subnet associations>Subnets without explicit associations>Edit Subnets associations
+<img width="1366" height="639" alt="image" src="https://github.com/user-attachments/assets/cabfcb24-ca04-4907-bacb-3786f24244b6" />
+Route Tables>Private Route Table>Subnet associations>Subnets without explicit associations>Edit Subnets associations
+<img width="1366" height="640" alt="image" src="https://github.com/user-attachments/assets/e10b05a3-9e2f-4654-8998-a18df6f34c80" />
+<img width="1366" height="435" alt="image" src="https://github.com/user-attachments/assets/549ebd5f-ad2f-433b-8fc9-6e3974384a8b" />
+
+Security Group Configuration
+<img width="1366" height="639" alt="image" src="https://github.com/user-attachments/assets/08e0cb66-dce0-40d7-a14e-c59f26834bea" />
+<img width="1366" height="638" alt="image" src="https://github.com/user-attachments/assets/2cd536f8-2ccb-4c69-97ee-1420191b2e11" />
+
+Launch Web Server Instance Configuration
+<img width="1366" height="645" alt="image" src="https://github.com/user-attachments/assets/10c8c3b4-b398-479b-8284-ce68d586f3f8" />
+<img width="1366" height="639" alt="image" src="https://github.com/user-attachments/assets/5b4fd04a-f16d-4c10-804f-7a0023168128" />
 
 
 ## Takeaways
