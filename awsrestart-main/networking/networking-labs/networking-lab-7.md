@@ -7,10 +7,59 @@ Deliver customer's exact request: a fully functional VPC with its resources (net
 <img width="1114" height="511" alt="image" src="https://github.com/user-attachments/assets/c4728464-9c9c-475f-bbbc-e00c10aa1882" />
 
 ## Steps Taken
-1. Logged into AWS Console
-2. Launched EC2 instance (Ubuntu)
-3. Generated key pair
-4. SSH’d into the instance using Terminal
+1. Logged into AWS Management Console
+2. Created VPC.
+   - Name : Test VPC
+   - IPv4 CIDR: 10.0.0.0/16
+   - IPv6 CIDR block: None I
+   - Tenancy: Default
+   - Number of Availability Zones (AZs): 1
+   - Number of public subnets: 1 | Public subnet CIDR block in us-west-2a: 10.0.0.0/24 | name tag: Public Subnet 1 | Public Route Table
+   - Number of private subnets: 1 | Private subnet CIDR block in us-west-2a: 10.0.1.0/24 | name tag: Private Subnet 1 | Private Route Table
+   - NAT gateways: In 1 AZ
+   - VPC endpoints: None
+   - VPC: Lab VPC
+4. Created public subnet in VPC
+   - Subnet name: Public Subnet 2
+   - Availability Zone: No preference
+   - IPv4 CIDR block: 10.0.2.0/24
+5. Created private subnet in VPC
+   - Subnet name: Private Subnet 2
+   - Availability Zone: No preference
+   - IPv4 CIDR block: 10.0.3.0/24
+7. Associate the subnets and add routes
+8. Create a VPC security group
+   - Security group name: Web Security Group
+   - Description: Enable HTTP access
+   - VPC: Lab VPC.
+   - Add Inbound rule
+     - Type: HTTP
+     - Source: Anywhere IPv4
+     - Description: Permit web requests
+    
+9. Launch a web server instance
+    - Name:  Web Server 1
+    - Quick Start: Amazon Linux
+    - Amazon Machine Image (AMI): Amazon Linux 2 AMI (HVM)
+    - Instance type: t3.micro
+    - Key pair: vockey
+    - VPC: Lab VPC
+    - Subnet: Public Subnet 2
+    - Auto-assign public IP: Enable
+    - Firewall (security groups): Web Security Group
+    - User Data:
+  
+```bash
+#!/bin/bash
+#Install Apache Web Server and PHP
+yum install -y httpd mysql php
+#Download Lab files
+wget https://aws-tc-largeobjects.s3.us-west-2.amazonaws.com/CUR-TF-100-RESTRT-1/267-lab-NF-build-vpc-web-server/s3/lab-app.zip
+unzip lab-app.zip -d /var/www/html/
+#Turn on web server
+chkconfig httpd on
+service httpd start
+```
 
 ## Challenges
 - ...
@@ -19,4 +68,4 @@ Deliver customer's exact request: a fully functional VPC with its resources (net
 _(Optional – paste image if available)_
 
 ## Takeaways
-
+I am able to create a VPC and its resources and make it successfully connect to a web server. According to my design specification, or a customer's design specifications.
