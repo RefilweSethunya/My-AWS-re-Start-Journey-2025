@@ -9,7 +9,7 @@ Analyze the difference between a private and public IP address
 3. SSH’d into the instances
 
 ## Challenges
-- 
+- ...
 
 ## Screenshot
 <img width="1366" height="302" alt="Screenshot 2025-09-19 at 21 59 11" src="https://github.com/user-attachments/assets/79848ec0-ae74-486c-bd5a-483e0ab78c3e" />
