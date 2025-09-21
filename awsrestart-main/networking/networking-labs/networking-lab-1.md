@@ -5,7 +5,7 @@ Analyze the difference between a private and public IP address
 
 ## Steps Taken
 1. Logged into the AWS Management Console
-2. Observed the networking information of both Instances under Networking tab
+2. Observed the networking information of both Instance A an Instance B under Networking tab
 3. SSH’d into the instances
 
 ## Challenges
