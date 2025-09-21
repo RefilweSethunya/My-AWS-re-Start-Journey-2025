@@ -77,7 +77,7 @@ sed -i 's|[#]*PasswordAuthentication no|PasswordAuthentication yes|g' /etc/ssh/s
 systemctl restart sshd.service
 ```
 11. Logged into the bastion server
-12. Logged into the private instance
+    - Login private instance by SSH into Private IPv4 addresses of the private instance.
     
 
 
@@ -132,7 +132,7 @@ Bastion Server Login
 
 Private Server Login
 <img width="1366" height="643" alt="image" src="https://github.com/user-attachments/assets/3d84a269-6466-4b66-88f5-b29553b55394" />
-
+<img width="1366" height="639" alt="image" src="https://github.com/user-attachments/assets/54d59bc8-a017-496c-9ca8-720947803351" />
 
 
 ## Takeaways
