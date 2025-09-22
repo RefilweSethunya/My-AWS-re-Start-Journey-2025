@@ -127,15 +127,24 @@ aws s3api create-bucket --bucket flowlog###### --region 'us-west-2' --create-buc
 - ...
 
 ## Screenshot
-CLI Host Instance Connection and CLI profile Configuration
-<img width="1366" height="639" alt="image" src="https://github.com/user-attachments/assets/1402f11a-a49e-4f51-bc0f-1039e5f326ae" />
+CLI Host Instance Connection 
+<img width="1366" height="635" alt="image" src="https://github.com/user-attachments/assets/7e5693de-e89d-49f5-a956-5e48184c80b1" />
+CLI profile Configuration
+<img width="1366" height="639" alt="image" src="https://github.com/user-attachments/assets/6ee60cdd-c70b-4241-b16a-d7737ec034dc" />
 
-S3 bucket Configuration (bucket = flowlog779618). The VPC flow logs Configuration. (VPC ID =vpc-043b6fc5056481f87) They will be published to the S3 bucket
-<img width="1366" height="401" alt="image" src="https://github.com/user-attachments/assets/2b7e734f-444e-4b38-9b02-032a15661684" />
+
+S3 bucket Configuration (bucket = flowlog779618). The VPC flow logs Configuration. (VPC ID =vpc-0e7ee32cc7b4c186e) They will be published to the S3 bucket
+<img width="1366" height="635" alt="image" src="https://github.com/user-attachments/assets/800b4f0d-0a6a-4f2a-b4cd-7fd116aebffd" />
+
+VPC ID Query
+<img width="1366" height="319" alt="image" src="https://github.com/user-attachments/assets/bc36f981-bf54-4e52-942b-ca2db1746b27" />
+
 aws ec2 create-flow-logs --resource-type VPC --resource-ids <vpc-043b6fc5056481f87> --traffic-type ALL --log-destination-type s3 --log-destination arn:aws:s3:::<flowlog779618>
-<img width="1366" height="414" alt="image" src="https://github.com/user-attachments/assets/9b5a0725-ce7f-41bf-8596-c01ad0ac9bf5" />
-<img width="1196" height="598" alt="image" src="https://github.com/user-attachments/assets/d2535926-6264-4d2e-b4dd-e76d5b896210" />
-Cannot reach WebServerIP pasted on browser
+<img width="1366" height="348" alt="image" src="https://github.com/user-attachments/assets/488192fe-8c01-47a5-a7f0-62a0875ea1e9" />
+
+Cannot reach WebServerIP pasted on browser (https://44.248.150.3/)
+<img width="1366" height="724" alt="image" src="https://github.com/user-attachments/assets/fc48c193-4a4c-48c9-8910-318e11aa42f4" />
+
 
 ## Takeaways
 After completing this lab, my understanding of how VPC Flow Logs provide visibility into network traffic and are used to diagnose connectivity issues is reinforced.
