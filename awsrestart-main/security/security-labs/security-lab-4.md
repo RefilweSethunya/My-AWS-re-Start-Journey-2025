@@ -1,7 +1,7 @@
 # Security Lab: Introduction to Identity and Access Management (IAM)
 
 ## Objective
-Network Hardening, Activate Amazon Inspector, interpret the vulnerability reports, and remediate the findings.
+Experience how IAM manages authentication and authorization to secure resources in AWS through creating and applying an IAM password policy, exploring pre-created IAM users and groups and inspecting the policies attached to the groups. Also adding users to groups with specific capabilities enabled, locating and using the IAM sign-in URL and experimenting with the effects of policies on service access.
 
 ## Steps Taken
 1. Activated and configured Amazon Inspector
@@ -16,4 +16,4 @@ Network Hardening, Activate Amazon Inspector, interpret the vulnerability report
 _(Optional – paste image if available)_
 
 ## Takeaways
-Security groups work like firewalls. Always make sure the required ports are open.
+By working with users, groups, and policies, we explored how access can be granted or restricted to resources. I have also learned the importance of strong password policies, organized group management and the practical effects of policies on service access in securing an AWS environment
