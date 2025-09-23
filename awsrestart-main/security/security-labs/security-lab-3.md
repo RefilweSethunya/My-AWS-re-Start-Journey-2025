@@ -118,4 +118,4 @@ Encryption Error
 
 
 ## Takeaways
-This lab highlighted the role of cryptography in protecting data CIA triad. By creating and using an AWS KMS encryption key with the AWS Encryption CLI, we securely transformed plaintext into ciphertext and later decrypted back into readable form demonstrating how encryption and decryption secure data confidentiality and integrity in the cloud.
+This lab highlighted the role of cryptography in protecting data CIA triad. By creating and using an AWS KMS encryption key with the AWS Encryption CLI, we can securely transform plaintext into ciphertext and later decrypt back into readable form demonstrating how encryption and decryption secure data confidentiality and integrity in the cloud.
