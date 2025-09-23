@@ -65,14 +65,37 @@ With these tools, I will encrypt plaintext files to protect their contents and t
      ``` bash
      ls output
      ```
-   - 
-
-
+   - To decrypt the file
+     ``` bash
+     aws-encryption-cli --decrypt \
+                     --input secret1.txt.encrypted \
+                     --wrapping-keys key=$keyArn \
+                     --commitment-policy require-encrypt-require-decrypt \
+                     --encryption-context purpose=test \
+                     --metadata-output ~/metadata \
+                     --max-encrypted-data-keys 1 \
+                     --buffer \
+                     --output .
+     ```
+   - To view the new file location
+     ``` bash
+     ls output
+     ```
+   - To view the contents of the decrypted file
+     ``` bash
+     cat secret1.txt.encrypted.decrypted
+     ```
+     
 ## Challenges
 - ...
 
 ## Screenshot
-_(Optional – paste image if available)_
+KMS Creation
+Key Administrator Configuration
+File Server CLI Configuration
+Text File Creation
+Encryption
+Decryption
 
 ## Takeaways
 This lab highlighted the role of cryptography in protecting data CIA triad. By creating and using an AWS KMS encryption key with the AWS Encryption CLI, we securely transformed plaintext into ciphertext and later decrypted back into readable form demonstrating how encryption and decryption secure data confidentiality and integrity in the cloud.
