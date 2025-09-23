@@ -55,8 +55,16 @@ Experience how IAM manages authentication and authorization to secure resources 
 
 ## Screenshot
 Account password policy Configuration
+<img width="1366" height="632" alt="image" src="https://github.com/user-attachments/assets/8323b6d7-7190-4a05-baae-d273c2b2fa92" />
+
 Users
+<img width="1366" height="410" alt="image" src="https://github.com/user-attachments/assets/276b6e1b-446b-406d-b0bc-dd7f03879bfa" />
+
 User Groups
+<img width="1366" height="413" alt="image" src="https://github.com/user-attachments/assets/bc18541a-3bdd-4390-9019-ba32bb83ff06" />
+ User Groups after adding users
+ <img width="1366" height="436" alt="image" src="https://github.com/user-attachments/assets/cb386a6c-ea5e-4868-904c-1a6fd335aa3a" />
+
 
 ## Takeaways
 By working with users, groups, and policies, we explored how access can be granted or restricted to resources. I have also learned the importance of strong password policies, organized group management and the practical effects of policies on service access in securing an AWS environment
