@@ -1,7 +1,8 @@
 # Security Lab: Data Protection
 
 ## Objective
-Network Hardening, Activate Amazon Inspector, interpret the vulnerability reports, and remediate the findings.
+Understand and apply cryptographic principles using AWS services. Tasks include creating an AWS KMS encryption key and installing the AWS Encryption CLI on an EC2 instance.
+With these tools, I will encrypt plaintext files to protect their contents and then decrypt the ciphertext files back into readable form.
 
 ## Steps Taken
 1. Activated and configured Amazon Inspector
@@ -16,4 +17,4 @@ Network Hardening, Activate Amazon Inspector, interpret the vulnerability report
 _(Optional – paste image if available)_
 
 ## Takeaways
-Security groups work like firewalls. Always make sure the required ports are open.
+This lab highlighted the role of cryptography in protecting data CIA triad. By creating and using an AWS KMS encryption key with the AWS Encryption CLI, we securely transformed plaintext into ciphertext and later decrypted back into readable form demonstrating how encryption and decryption secure data confidentiality and integrity in the cloud.
