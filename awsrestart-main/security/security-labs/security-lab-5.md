@@ -1,7 +1,7 @@
 # Security Lab: Firewall Malware
 
 ## Objective
-Network Hardening, Activate Amazon Inspector, interpret the vulnerability reports, and remediate the findings.
+Strengthen the organization’s security perimeter using AWS Network Firewall. Tasks include updating a network firewall and creating a firewall rules group to block access to known malicious sites. Finally, verifying and testing that the rules are working by confirming that access to the sites is successfully denied.
 
 ## Steps Taken
 1. Activated and configured Amazon Inspector
@@ -16,4 +16,4 @@ Network Hardening, Activate Amazon Inspector, interpret the vulnerability report
 _(Optional – paste image if available)_
 
 ## Takeaways
-Security groups work like firewalls. Always make sure the required ports are open.
+AWS Network Firewall can be used to protect against malware threats. By updating the firewall and creating rules to block access to malicious sites, we reinforced how firewalls serve as a critical defense in securing networks and preventing unauthorized or harmful traffic
