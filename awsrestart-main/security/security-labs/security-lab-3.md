@@ -13,7 +13,7 @@ With these tools, I will encrypt plaintext files to protect their contents and t
      - Next
    - Key administrators > Define key administrative permissions > select voclabs > Next
    - This account > Define key usage permissions page > select voclabs > Next > Finish
-   - MyKMSKey and copied the ARN (Amazon Resource Name)
+   - MyKMSKey and copied the ARN (Amazon Resource Name)(arn:aws:iam::847046729124:role/voclabs)
 2. Configured the File Server instance
    - EC2 > Instances > File Server > Session Manager > Connect
    - ``` bash
@@ -87,15 +87,35 @@ With these tools, I will encrypt plaintext files to protect their contents and t
      ```
      
 ## Challenges
-- ...
+- At encryption I recieved an error that Python 3.6 is no longer supported by the Python core team, echo also returned a non zero value. Therefore I did not get to decrypt.
+- <img width="1366" height="485" alt="image" src="https://github.com/user-attachments/assets/c31c060e-8468-478e-b4fe-871f16e75886" />
+
 
 ## Screenshot
 KMS Creation
+<img width="1366" height="673" alt="image" src="https://github.com/user-attachments/assets/9a6c4ab0-138f-4d3b-9e54-8665f9158bd8" />
+<img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/7bfbd664-9cf0-44a4-a70b-0639fea0b230" />
+
 Key Administrator Configuration
+<img width="1366" height="675" alt="image" src="https://github.com/user-attachments/assets/42ad21b3-f041-48f9-a07a-442afd8a0aaf" />
+<img width="1366" height="675" alt="image" src="https://github.com/user-attachments/assets/274f2cdc-1bd6-4f74-83a8-b622918c6484" />
+
+Key
+<img width="1366" height="425" alt="image" src="https://github.com/user-attachments/assets/e6b1384d-bd54-46fa-89f9-029878d132d0" />
+
 File Server CLI Configuration
+<img width="1366" height="403" alt="image" src="https://github.com/user-attachments/assets/9979386f-2269-435f-8ffc-c69327aee79f" />
+
 Text File Creation
-Encryption
-Decryption
+<img width="1366" height="677" alt="image" src="https://github.com/user-attachments/assets/f663f901-3e44-416b-9337-da2488635aab" />
+
+AWS Encryption CLI Installation and Path Setting
+<img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/fe016d0d-3a9b-4d2f-a6af-2cb616af941a" />
+<img width="1366" height="676" alt="image" src="https://github.com/user-attachments/assets/4e748ad6-27c2-44cf-ab30-66ea15c145b3" />
+
+Encryption Error
+<img width="1366" height="485" alt="image" src="https://github.com/user-attachments/assets/26aabe4f-29b4-45a2-a711-6df064237fba" />
+
 
 ## Takeaways
 This lab highlighted the role of cryptography in protecting data CIA triad. By creating and using an AWS KMS encryption key with the AWS Encryption CLI, we securely transformed plaintext into ciphertext and later decrypted back into readable form demonstrating how encryption and decryption secure data confidentiality and integrity in the cloud.
