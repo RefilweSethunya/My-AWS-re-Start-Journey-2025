@@ -1,7 +1,7 @@
 # Security Lab: Systems-Hardening
 
 ## Objective
-Network Hardening, Activate Amazon Inspector, interpret the vulnerability reports, and remediate the findings.
+Strengthen system security through patch management. Specifically, the tasks include: patching Linux instances using the default patch baseline; creating a custom patch baseline tailored to specific requirements.; using patch groups to apply the custom patch baseline to Windows instances; and verifying patch compliance to ensure systems meet security and update standards.
 
 ## Steps Taken
 1. Activated and configured Amazon Inspector
@@ -16,4 +16,4 @@ Network Hardening, Activate Amazon Inspector, interpret the vulnerability report
 _(Optional – paste image if available)_
 
 ## Takeaways
-While it can be logistically challenging to keep all the operating system (OS) and application software up to date. In most cases, OS updates can be automatically applied via the network. In AWS we use Patch Manager, a capability of AWS Systems Manager, to create a patch baseline. And then use the same patch baseline that you created to scan the resources for COMPLIANCE. And then also use the same patch baseline to patch the resources (e.g EC2 Linux instances).
+Keeping operating systems (OS) and application software up to date can be logistically challenging, but most OS updates can be automatically applied over the network. In AWS, Patch Manager (a capability of AWS Systems Manager) simplifies this process by allowing one to create patch baselines, scan resources for compliance, and apply patches to instances such as EC2 Linux or Windows servers. This ensures systems remain secure, compliant, and consistently hardened against vulnerabilities.
