@@ -10,7 +10,7 @@ Network Hardening, Activate Amazon Inspector, interpret the vulnerability report
 3. Refreshed the page periodically until I saw the Dashboard > Summary > Environment coverage> Lambda functions at 100%
 4. Reviewed my Lambda functions, analyzed and interpreted vulnerability findings
    - Findings > All findings.
-   - > CVE-2023-32681 - requests (this opens a pane containing the vulnerability information) 
+   - CVE-2023-32681 - requests (this opens a pane containing the vulnerability information) 
 
 Within the information pane, under the Vulnerability details section choose the external link next to the Vulnerability ID.
 5. Remediated my Lambda function’s Package Vulnerabilities
