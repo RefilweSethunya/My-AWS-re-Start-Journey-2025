@@ -56,7 +56,9 @@ Practice deploying and managing a static website using Amazon S3 and the AWS CLI
 - 
 
 ## Screenshot
-_(Optional – paste image if available)_
+CLI Config
+<img width="1366" height="323" alt="image" src="https://github.com/user-attachments/assets/b36c22bd-b842-43e9-ab48-de7f93ef87a8" />
+
 
 ## Takeaways
 I learned how S3 can serve as a simple and scalable hosting solution for static web content.
