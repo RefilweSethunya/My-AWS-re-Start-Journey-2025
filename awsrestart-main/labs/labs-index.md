@@ -17,10 +17,7 @@ This file serves as a central index of all of the labs I completed, sorted by AW
 
 ## Storage
 - [Lab 10: Creating and Managing S3 Buckets](../storage/storage-labs/storage-lab-1.md)
-- [Lab 11: Managing Storage](../storage/storage-labs/storage-lab-2.md)
-- [Lab 12: S3 Exercise](../storage/storage-labs/storage-lab-3.md)
-- [Lab 13: Create a Website on S3](../storage/storage-labs/storage-lab-4.md)
-
+- [Lab 11: Create a Website on S3](../storage/storage-labs/storage-lab-2.md)
 
 ## Databases
 - [Lab 14: Database Table Operations](../databases/databases-labs/databases-lab-1.md)
