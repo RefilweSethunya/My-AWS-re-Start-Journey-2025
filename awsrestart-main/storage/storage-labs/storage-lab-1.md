@@ -6,8 +6,6 @@ Learn how to create a new bucket, upload an object and make it public.
 ## Steps Taken
 1. Logged into AWS Console
 2. Created s3 bucket
-3. ...
-4. ...
 
 ## Challenges
 - First time creating a JSON Policy
