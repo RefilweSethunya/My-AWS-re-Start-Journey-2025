@@ -37,7 +37,7 @@ Explore logging and monitoring techniques using Amazon CloudWatch and Amazon SNS
        - Alarm description: CloudWatch alarm for Stress Test EC2 instance CPUUtilization
      - Next
      - Create Alarm
-4. Created a CloudWatch dashboard
+3. Created a CloudWatch dashboard
    - CloudWatch > Dashboards > Create dashboard.
    - For Dashboard name, entered LabEC2Dashboard > Create dashboard > Line > Metrics > EC2 > Per-Instance Metrics > Select the check box with Stress Test for the Instance name and CPUUtilization for the Metric name > Create widget > Save dashboard.
 
