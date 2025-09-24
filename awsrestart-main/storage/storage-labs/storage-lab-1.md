@@ -1,11 +1,12 @@
 # Storage Lab: Creating and Managing S3 Buckets 
 
 ## Objective
-Learn how to create a new bucket, upload an object and make it public.
+Practice creating S3 buckets, uploading objects and verifying that the object is accessible through the provided S3 public address.
 
 ## Steps Taken
 1. Logged into AWS Console
-2. Created s3 bucket
+2. Created S3 bucket
+3. Manage permissions
 
 ## Challenges
 - First time creating a JSON Policy
