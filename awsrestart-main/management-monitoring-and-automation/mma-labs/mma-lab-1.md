@@ -5,13 +5,11 @@ Explore logging and monitoring techniques using Amazon CloudWatch and Amazon SNS
 
 ## Steps Taken
 1. Configure Amazon SNS
-   - AWS Management Console > SNS >  Topics > Create topic
-   - Create Topic, configured the following:
+   - AWS Management Console > SNS >  Topics > Create topic > configured the following:
      - Type: Standard
      - Name: MyCwAlarm
    - Create
-   - Subscriptions tab > Create subscription
-   - Create subscription, configured the following:
+   - Subscriptions tab > Create subscription > configured the following:
      - Topic ARN: Default
      - Protocol: Email
      - Endpoint: Entered a valid email address
@@ -47,7 +45,20 @@ Explore logging and monitoring techniques using Amazon CloudWatch and Amazon SNS
 - ...
 
 ## Screenshot
-_(Optional – paste image if available)_
+Amazon SNS Create Topic Config
+<img width="1366" height="638" alt="image" src="https://github.com/user-attachments/assets/83a12d97-438a-4ba1-aed9-111245a04bcf" />
+
+Amazon SNS Create Subscription Config
+<img width="1366" height="640" alt="image" src="https://github.com/user-attachments/assets/6995c4a7-4b6e-4530-a3da-6a6b15b764f6" />
+<img width="1216" height="354" alt="image" src="https://github.com/user-attachments/assets/2b4d62b4-baf3-4073-8a66-8d1400cc2b5f" />
+<img width="1225" height="276" alt="image" src="https://github.com/user-attachments/assets/18e85d07-d69d-4abd-9e0c-8705034f2faa" />
+<img width="1366" height="334" alt="image" src="https://github.com/user-attachments/assets/729737af-54cc-45b2-8114-22fab34009bb" />
+
+CloudWatch Alarm Configuration
+
+
+CloudWatch Dashboard
+
 
 ## Takeaways
 Logging and monitoring work hand in hand to maintain system performance and security. While logging captures detailed records of events that reveal how applications and systems behave, monitoring analyzes this data to ensure optimal performance, detect unauthorized access and enforce security guidelines. Together, they provide visibility, accountability, and protection across the environment.
