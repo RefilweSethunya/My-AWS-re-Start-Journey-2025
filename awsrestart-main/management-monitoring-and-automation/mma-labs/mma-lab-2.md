@@ -158,7 +158,8 @@ AWS Config Configuration - Add Rule
 <img width="1366" height="642" alt="image" src="https://github.com/user-attachments/assets/4675e11d-195e-47d1-b213-88297af94d2b" />
 
 
-![Uploading image.png…]()
+<img width="1366" height="641" alt="image" src="https://github.com/user-attachments/assets/068ed59a-8c3f-4922-b63d-e48910fac4cf" />
+
 
 
 ## Takeaways
