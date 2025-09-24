@@ -34,11 +34,11 @@ Strengthen the organization’s security perimeter using AWS Network Firewall. T
      - Next
      - Review and create
      - Create stateful rule group
-5. Attach the firewall rule group to the network firewall
+5. Attached the firewall rule group to the network firewall
    - NETWORK FIREWALL > Firewalls > LabFirewall > LabFirewallPolicy
    - Under Stateful rule groups > Add unmanaged stateful rule groups
-   - Select the check box for StatefulRuleGroup > Add stateful rule group.
-   - Navigate to Stateful rule groups section to see the successfully added firewall rule group
+   - Selected the check box for StatefulRuleGroup > Add stateful rule group.
+   - Navigated to Stateful rule groups section to see the successfully added firewall rule group
   
 
 ## Challenges
