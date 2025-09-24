@@ -15,6 +15,7 @@ Explore logging and monitoring techniques using Amazon CloudWatch and Amazon SNS
      - Topic ARN: Default
      - Protocol: Email
      - Endpoint: Entered a valid email address
+   - Create
    - AWS Management Console > Subscriptions
 2. Create a CloudWatch alarm
    - AWS Management Console > Cloudwatch > Metrics > All metrics
@@ -32,7 +33,6 @@ Explore logging and monitoring techniques using Amazon CloudWatch and Amazon SNS
       - Alarm state trigger: In alarm
       - Select an SNS topic: Select an existing SNS topic
       - Send a notification to...: MyCwAlarm
-     
      - Next
      - Configure the following:
        - Alarm name: LabCPUUtilizationAlarm
