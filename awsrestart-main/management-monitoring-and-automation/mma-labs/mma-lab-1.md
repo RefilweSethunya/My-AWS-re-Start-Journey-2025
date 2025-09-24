@@ -1,7 +1,7 @@
 # Management, Monitoring and Automation Lab: Monitor an EC2 Instance
 
 ## Objective
-Learn how to launch and SSH into an EC2 instance
+Explore logging and monitoring techniques using Amazon CloudWatch and Amazon SNS. I create an SNS notification and configure a CloudWatch alarm that triggers when an EC2 instance exceeds a defined CPU utilization threshold. To test the setup, I run a stress test on the EC2 instance to spike CPU usage, simulating a potential security or performance issue. Finally, I confirm that an SNS email notification is sent and finish the lab by creating a CloudWatch dashboard to visualize the monitored metrics.
 
 ## Steps Taken
 1. Logged into AWS Console
@@ -17,3 +17,4 @@ Learn how to launch and SSH into an EC2 instance
 _(Optional – paste image if available)_
 
 ## Takeaways
+Logging and monitoring work hand in hand to maintain system performance and security. While logging captures detailed records of events that reveal how applications and systems behave, monitoring analyzes this data to ensure optimal performance, detect unauthorized access and enforce security guidelines. Together, they provide visibility, accountability, and protection across the environment.
