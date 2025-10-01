@@ -9,20 +9,19 @@ Use CREATE statement to create databases and tables. Use SHOW statement to view 
 1. Logged into the AWS Management Console
 2. Connected to the Command Host
 3. Created a database(world) and a table(country)
-
-To show the existing databases
+4. To show the existing databases, run the following query
 ```sql
 SHOW DATABASES;
 ```
-To create a new database named world,
+5. To create a new database named world, run the following query
 ```sql
 CREATE DATABASE world;
 ```
-To verify that the world database has been created,
+6. To verify that the world database has been created, run the following query
 ```sql
 SHOW DATABASES;
 ```
-To create a table named country, with a well-defined structure, known as a table schema run the following command,
+7. To create a table named country, with a well-defined structure, known as a table schema run the following 
 ```sql
 CREATE TABLE world.country (
   `Code` CHAR(3) NOT NULL DEFAULT '',
@@ -43,36 +42,36 @@ CREATE TABLE world.country (
   PRIMARY KEY (`Code`)
 );
 ```
-To verify that the country table was created, use the SHOW TABLES; command to list the tables in the database. You use the USE command to specify which database to run a query against.
+8. To verify that the country table was created, use the SHOW TABLES; command to list the tables in the database. To specify which database to run a query against use the USE command
 ```sql
 USE world;
 SHOW TABLES;
 ```
-to list all columns and their properties in the country table
+9. To list all columns and their properties in the country table run the following query
 ```sql
 SHOW COLUMNS FROM world.country;
 ```
-to alter the table's schema. To fix the incorrectly spelled Continent column, run the following
+10. To alter the table's schema i.e. to fix the incorrectly spelled Continent column, run the following command
 ```sql
 ALTER TABLE world.country RENAME COLUMN Conitinent TO Continent;
 ```
-To verify that the Continent column name in the country table has been corrected,
+11. To verify that the Continent column name in the country table has been corrected, run the following query
 ```sql
 SHOW COLUMNS FROM world.country;
 ```
-Once a table has been dropped, it cannot be recovered unless a backup is available. To drop the city table, run
+12. To drop the city table, run the following command 
 ```sql
 DROP TABLE world.city;
 ```
-To verify that both tables have been dropped, run
+13. To verify that both tables have been dropped, run the following command
 ```sql
 SHOW TABLES;
 ```
-To drop the world database, run 
+14. To drop the world database, run the following command
 ```sql
 DROP DATABASE world;
 ```
-To verify that the world database has been deleted, run
+15. To verify that the world database has been deleted, run the following query
 ```sql
 SHOW DATABASES;
 ```
@@ -85,5 +84,5 @@ _(Optional – paste image if available)_
 
 
 ## Takeaways
-
+Once a table has been dropped, it cannot be recovered unless a backup is available. 
 
