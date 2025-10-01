@@ -78,7 +78,11 @@ Use CREATE statement to create databases and tables. Use SHOW statement to view 
       ```
 
 ## Screenshot
-_(Optional – paste image if available)_
+<img width="1366" height="676" alt="image" src="https://github.com/user-attachments/assets/b7fc99cd-10ae-4aa2-b917-176330b67564" />
+<img width="1366" height="678" alt="image" src="https://github.com/user-attachments/assets/85f5992a-1a73-4625-aeb7-031e5f9cd791" />
+<img width="1366" height="682" alt="image" src="https://github.com/user-attachments/assets/0c91899b-6225-43a8-9fbf-1d2147d32304" />
+<img width="1366" height="678" alt="image" src="https://github.com/user-attachments/assets/966daaa8-d8d0-445b-af23-311be0a5614c" />
+
 
 ## Challenges
 - 
