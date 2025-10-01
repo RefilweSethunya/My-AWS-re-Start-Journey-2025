@@ -85,7 +85,7 @@ Use CREATE statement to create databases and tables. Use SHOW statement to view 
 
 
 ## Challenges
-- 
+- ...
 
 
 ## Takeaways
