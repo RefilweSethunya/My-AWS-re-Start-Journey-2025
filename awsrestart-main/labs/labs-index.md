@@ -7,13 +7,9 @@ This file serves as a central index of all of the labs I completed, sorted by AW
 ## Compute
 - [Lab 01: Introduction to Amazon EC2](../compute/compute-labs/compute-lab-1.md)
 - [Lab 02: Creating Amazon EC2 Instances](../compute/compute-labs/compute-lab-2.md)
-- [Lab 03: EC2 Instance Exercise](../compute/compute-labs/compute-lab-3.md)
-- [Lab 04: Troubleshoot Create Instance](../compute/compute-labs/compute-lab-4.md)
-- [Lab 05: Working with AWS Lambda](../compute/compute-labs/compute-lab-5.md)
-- [Lab 06: AWS Lambda Exercise](../compute/compute-labs/compute-lab-6.md)
-- [Lab 07: Scale and Load Balance your Architecture](../compute/compute-labs/compute-lab-7.md)
-- [Lab 08: Using Auto Scaling in AWS (Linux)](../compute/compute-labs/compute-lab-8.md)
-- [Lab 09: Route 53 Failover Routing](../compute/compute-labs/compute-lab-9.md)
+- [Lab 03: Working with AWS Lambda](../compute/compute-labs/compute-lab-3.md)
+- [Lab 04: Scale and Load Balance your Architecture](../compute/compute-labs/compute-lab-4.md)
+- [Lab 05: Route 53 Failover Routing](../compute/compute-labs/compute-lab-5.md)
 
 ## Storage
 - [Lab 10: Creating and Managing S3 Buckets](../storage/storage-labs/storage-lab-1.md)
