@@ -28,7 +28,7 @@ I set up a Route 53 health check that sends email notifications when the health 
    - Route 53 > Hosted Zones > Configured the following:
      - Record name: www
      - Record type: A - Routes traffic to an IPv4 address and some AWS resources
-     - Value:
+     - Value: 44.231.40.21
      - TTL(seconds): 15
      - Routing Policy: Failover
      - Failover record type: Primary
@@ -39,7 +39,7 @@ I set up a Route 53 health check that sends email notifications when the health 
      - Route 53 > Hosted Zones > Configured the following:
      - Record name: www
      - Record type: A - Routes traffic to an IPv4 address and some AWS resources
-     - Value:
+     - Value: 52.89.115.120
      - TTL(seconds): 15
      - Routing Policy: Failover
      - Failover record type: Secondary
@@ -48,7 +48,7 @@ I set up a Route 53 health check that sends email notifications when the health 
      - Create record
 5. Verifying failover functionality
    - EC2 > Instances > Stop CafeInstance1 instance
-   - Refresh the browser tab where page is open, observing that the Region/Availability Zone value now displays a different Availability Zone
+   - Refresh the browser tab where page is open, observing that the Region/Availability Zone value now displays a different Availability Zone (us-west-2a to us-west-2b)
 
 
 ## Challenges
