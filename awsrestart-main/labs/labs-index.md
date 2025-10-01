@@ -1,6 +1,6 @@
 ## AWS re/Start Labs
 
-This file serves as a central index of all of the labs I completed, sorted by AWS module. Making it easier for me to track by category.  
+This file serves as a central index of all of the labs I completed, sorted by AWS module. Making it easier for me to search by category.  
 
 ---
 
