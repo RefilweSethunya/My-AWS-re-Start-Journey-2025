@@ -19,8 +19,8 @@ It serves as:
 - [x] Week 6 – AWS Security services Part 1
 - [x] Week 7 - AWS Security services Part 2
 - [x] Week 8 - Management Tools
-- [ ] Week 9 - AWS Application & Migration Services
-- [ ] Week 10 - AWS Developer Tools and Machine Learning
+- [x] Week 9 - AWS Application & Migration Services
+- [x] Week 10 - AWS Developer Tools and Machine Learning
 - [ ] Weeks 11,12 - Final Project & Exam Prep
 - [ ] AWS Certified Cloud Practitioner – Exam PASS 🎉  
 
