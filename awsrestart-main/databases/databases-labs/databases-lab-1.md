@@ -7,17 +7,22 @@ Use CREATE statement to create databases and tables. Use SHOW statement to view 
 
 ## Steps Taken
 1. Logged into the AWS Management Console
+2. Connected to the Command Host
+3. Created a database(world) and a table(country)
 
-## Sample Query
+To show the existing databases
 ```sql
 SHOW DATABASES;
 ```
+To create a new database named world,
 ```sql
 CREATE DATABASE world;
 ```
+To verify that the world database has been created,
 ```sql
 SHOW DATABASES;
 ```
+To create a table named country, with a well-defined structure, known as a table schema run the following command,
 ```sql
 CREATE TABLE world.country (
   `Code` CHAR(3) NOT NULL DEFAULT '',
@@ -38,28 +43,36 @@ CREATE TABLE world.country (
   PRIMARY KEY (`Code`)
 );
 ```
+To verify that the country table was created, use the SHOW TABLES; command to list the tables in the database. You use the USE command to specify which database to run a query against.
 ```sql
 USE world;
 SHOW TABLES;
 ```
+to list all columns and their properties in the country table
 ```sql
 SHOW COLUMNS FROM world.country;
 ```
+to alter the table's schema. To fix the incorrectly spelled Continent column, run the following
 ```sql
 ALTER TABLE world.country RENAME COLUMN Conitinent TO Continent;
 ```
+To verify that the Continent column name in the country table has been corrected,
 ```sql
 SHOW COLUMNS FROM world.country;
 ```
+Once a table has been dropped, it cannot be recovered unless a backup is available. To drop the city table, run
 ```sql
 DROP TABLE world.city;
 ```
+To verify that both tables have been dropped, run
 ```sql
 SHOW TABLES;
 ```
+To drop the world database, run 
 ```sql
 DROP DATABASE world;
 ```
+To verify that the world database has been deleted, run
 ```sql
 SHOW DATABASES;
 ```
