@@ -2,6 +2,9 @@
 
 ## Objective
 Deploy and configure a serverless computing solution using AWS Lambda. Identify the necessary IAM policy permissions that allow Lambda functions to interact with other AWS resources, create a Lambda layer to address external library dependencies, and configure Lambda functions that extract data from a database and send reports to users. Then deploy and test a scheduled Lambda function that invokes another function, and finally, use CloudWatch Logs to troubleshoot and validate the solution.
+Final Architecture
+<img width="1588" height="850" alt="image" src="https://github.com/user-attachments/assets/a7ab4310-dcfe-4784-9bee-a04e6ac35217" />
+
 
 ## Steps Taken
 1. Logged into the AWS Management Console
