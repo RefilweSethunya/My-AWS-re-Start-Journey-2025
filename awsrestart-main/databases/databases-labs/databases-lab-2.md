@@ -1,7 +1,7 @@
 # Databases Lab: Insert, Update, and Delete Data in a Database
 
 ## Objective
-Use INSERT statement to add rows into a table. Use UPDATE statement to modify rows in a table. Use DELETE statement to remove rows from a table. Use IMPORT statement to load rows from a database backup file.
+Use INSERT statement to add rows into a table<br> Use UPDATE statement to modify rows in a table<br> Use DELETE statement to remove rows from a table<br> Use IMPORT statement to load rows from a database backup file
 <img width="882" height="686" alt="image" src="https://github.com/user-attachments/assets/3428b089-4558-45e0-8563-26304daf2e4b" />
 
 ## Steps Taken
