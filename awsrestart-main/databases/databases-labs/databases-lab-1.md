@@ -1,7 +1,7 @@
 # Databases Lab: Database Table Operations
 
 ## Objective
-Use CREATE statement to create databases and tables. Use SHOW statement to view available databases and tables. Use ALTER statement to alter the structure of a table. Use DROP statement to delete databases and tables.
+Use CREATE statement to create databases and tables<br> Use SHOW statement to view available databases and tables<br> Use ALTER statement to alter the structure of a table<br> Use DROP statement to delete databases and tables
 <img width="718" height="584" alt="image" src="https://github.com/user-attachments/assets/7aa21a23-401b-49d3-bef0-1ef7a87e1d2d" />
 
 
