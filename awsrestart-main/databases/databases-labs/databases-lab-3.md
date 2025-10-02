@@ -1,7 +1,15 @@
 # Databases Lab: Selecting Data from a Database
 
 ## Objective
-
+Use the SELECT statement to query a database<br>
+Apply the COUNT() function to return the number of rows in a result set<br>
+Use the following operators to filter and organize query results:<br>
+- <
+-
+- =
+- WHERE
+- ORDER BY
+- AND
 
 ## Steps Taken
 1. Logged into the AWS Management Console
