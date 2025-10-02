@@ -9,20 +9,20 @@ Use CREATE statement to create databases and tables<br> Use SHOW statement to vi
 1. Logged into the AWS Management Console
 2. Connected to the Command Host
 3. Created a database(world) and a table(country)
-4. To show the existing databases, run the following query
+4. Showed the existing databases by running:
     ```sql
     SHOW DATABASES;
     ```
 
-5. To create a new database named world, run the following query
+5. Created a new database named world by running:
       ```sql
       CREATE DATABASE world;
       ```
-6. To verify that the world database has been created, run the following query
+6. Verified that the world database was created by running:
       ```sql
       SHOW DATABASES;
       ```
-7. To create a table named country, with a well-defined structure, known as a table schema run the following 
+7. Created a table named country with the following schema: 
       ```sql
       CREATE TABLE world.country (
         `Code` CHAR(3) NOT NULL DEFAULT '',
@@ -43,36 +43,36 @@ Use CREATE statement to create databases and tables<br> Use SHOW statement to vi
         PRIMARY KEY (`Code`)
       );
       ```
-8. To verify that the country table was created, use the SHOW TABLES; command to list the tables in the database. To specify which database to run a query against use the USE command
+8. Verified that the country table was created by running:
       ```sql
       USE world;
       SHOW TABLES;
       ```
-9. To list all columns and their properties in the country table run the following query
+9. Listed all columns and their properties in the country table by running:
       ```sql
       SHOW COLUMNS FROM world.country;
       ```
-10. To alter the table's schema i.e. to fix the incorrectly spelled Continent column, run the following command
+10. Corrected the misspelled Conitinent column by running:
       ```sql
       ALTER TABLE world.country RENAME COLUMN Conitinent TO Continent;
       ```
-11. To verify that the Continent column name in the country table has been corrected, run the following query
+11. Verified that the column name was corrected by running:
       ```sql
       SHOW COLUMNS FROM world.country;
       ```
-12. To drop the city table, run the following command 
+12. Dropped the city table by running:
       ```sql
       DROP TABLE world.city;
       ```
-13. To verify that both tables have been dropped, run the following command
+13. Verified that the table was dropped by running:
       ```sql
       SHOW TABLES;
       ```
-14. To drop the world database, run the following command
+14. Dropped the world database by running:
       ```sql
       DROP DATABASE world;
       ```
-15. To verify that the world database has been deleted, run the following query
+15. Verified that the world database was deleted by running:
       ```sql
       SHOW DATABASES;
       ```
