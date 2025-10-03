@@ -1,5 +1,7 @@
 # My AWS re/Start Journey
 
+[![committers.top badge](https://user-badge.committers.top/botswana_public/USERNAME.svg)](https://user-badge.committers.top/botswana_public/RefilweSethunya)
+
 This repo contains my personal notes, completed labs and projects demonstrating applied AWS skills from the AWS re/Start program.
 
 It serves as:  
