@@ -56,7 +56,18 @@ Final Architecture
    - Submit
 
 ## Screenshot
-_(Optional – paste image if available)_
+<img width="1366" height="671" alt="image" src="https://github.com/user-attachments/assets/6c2c6096-8792-4071-ab41-c5dda99486f2" />
+<img width="1366" height="656" alt="image" src="https://github.com/user-attachments/assets/ec24529a-0ba7-4a7a-be73-0081f46d954a" />
+<img width="1366" height="675" alt="image" src="https://github.com/user-attachments/assets/b18ca591-78a7-4a91-a60a-ac9ffb23f9e1" />
+<img width="1366" height="673" alt="image" src="https://github.com/user-attachments/assets/761b8bdf-93cd-4797-a364-24d4ec8026b6" />
+<img width="1366" height="676" alt="image" src="https://github.com/user-attachments/assets/33e41f47-87f8-42bb-94d5-684c503cfdc3" />
+<img width="1366" height="358" alt="image" src="https://github.com/user-attachments/assets/7f535119-e7f2-402c-a98c-0c2ad4768670" />
+<img width="1366" height="670" alt="image" src="https://github.com/user-attachments/assets/e843ab30-b4bb-40ac-b9e7-edd8a4c3c398" />
+<img width="1366" height="672" alt="image" src="https://github.com/user-attachments/assets/b29b40ee-7321-42fb-a6e6-746dc8cf02b7" />
+<img width="1366" height="673" alt="image" src="https://github.com/user-attachments/assets/f4bee373-407e-4002-91d0-45684812931a" />
+<img width="1366" height="669" alt="image" src="https://github.com/user-attachments/assets/c12656e3-3896-4c12-94cb-6e49fb5a67aa" />
+
+
 
 ## Challenges
 - 
