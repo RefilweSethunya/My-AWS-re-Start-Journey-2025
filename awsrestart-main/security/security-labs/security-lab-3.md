@@ -87,8 +87,7 @@ With these tools, I will encrypt plaintext files to protect their contents and t
      ```
      
 ## Challenges
-- At encryption I recieved an error that Python 3.6 is no longer supported by the Python core team, echo also returned a non zero value. Therefore I did not get to decrypt.
-- <img width="1366" height="485" alt="image" src="https://github.com/user-attachments/assets/c31c060e-8468-478e-b4fe-871f16e75886" />
+- ...
 
 
 ## Screenshot
@@ -113,8 +112,14 @@ AWS Encryption CLI Installation and Path Setting
 <img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/fe016d0d-3a9b-4d2f-a6af-2cb616af941a" />
 <img width="1366" height="676" alt="image" src="https://github.com/user-attachments/assets/4e748ad6-27c2-44cf-ab30-66ea15c145b3" />
 
-Encryption Error
-<img width="1366" height="485" alt="image" src="https://github.com/user-attachments/assets/26aabe4f-29b4-45a2-a711-6df064237fba" />
+Encryption
+<img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/0d23f9aa-51f0-4a52-b366-d3e0019ba43b" />
+<img width="1366" height="313" alt="image" src="https://github.com/user-attachments/assets/6bbf983f-17ec-4845-b8ea-9cc588198974" />
+
+Decryption
+<img width="1366" height="671" alt="image" src="https://github.com/user-attachments/assets/afcbf203-ee0f-423f-9b22-7b9c2344a5b1" />
+<img width="1366" height="282" alt="image" src="https://github.com/user-attachments/assets/b0189890-438d-4a83-8012-71c422a211a3" />
+
 
 
 ## Takeaways
