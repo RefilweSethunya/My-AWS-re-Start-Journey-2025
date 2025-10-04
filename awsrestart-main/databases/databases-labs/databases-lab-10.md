@@ -7,14 +7,55 @@ In this lab I create an Amazon RDS MariaDB instance using the AWS CLI, migrate d
 
 ## Steps Taken
 1. Logged into the AWS Management Console
-2. Created an Amazon RDS instance by using the AWS CLI
+2. Created the Amazon RDS instance by using the AWS CLI
    - Configured AWS CLI
       ``` bash
       aws configure
       ```
-   - Configured Security groups, subnets as per the final architecture
-    
-4. Migrated application data to the Amazon RDS instance
+   - Configured Security groups, Private Subnets as per the final architecture diagam
+     - Created CafeDatabaseSG Security Group
+         ``` bash
+         aws ec2 create-security-group \
+         --group-name CafeDatabaseSG \
+         --description "Security group for Cafe database" \
+         --vpc-id <CafeInstance VPC ID>
+         ```
+     - Created Inbound Rule
+         ``` bash
+         aws ec2 authorize-security-group-ingress \
+         --group-id <CafeDatabaseSG Group ID> \
+         --protocol tcp --port 3306 \
+         --source-group <CafeSecurityGroup Group ID>
+         ```
+     - Confirmed Inbound Rule
+         ``` bash
+         aws ec2 describe-security-groups \
+         --query "SecurityGroups[*].[GroupName,GroupId,IpPermissions]" \
+         --filters "Name=group-name,Values='CafeDatabaseSG'"
+         ```
+     - Created CafeDB Private Subnet 1
+         ``` bash
+         aws ec2 create-subnet \
+         --vpc-id <CafeInstance VPC ID> \
+         --cidr-block 10.200.2.0/23 \
+         --availability-zone <CafeInstance Availability Zone>
+         ```
+     - Created CafeDB Private Subnet 2
+         ``` bash
+         aws ec2 create-subnet \
+         --vpc-id <CafeInstance VPC ID> \
+         --cidr-block 10.200.10.0/23 \
+         --availability-zone <availability-zone>
+         ```
+     - Created Subnet Group
+         ``` bash
+         aws rds create-db-subnet-group \
+         --db-subnet-group-name "CafeDB Subnet Group" \
+         --db-subnet-group-description "DB subnet group for Cafe" \
+         --subnet-ids <Cafe Private Subnet 1 ID> <Cafe Private Subnet 2 ID> \
+         --tags "Key=Name,Value= CafeDatabaseSubnetGroup"
+         ```    
+3. Migrated the application data to the Amazon RDS instance
    - Created a backup of the local cafe_db database
       ``` sql
       mysqldump --user=root --password='Re:Start!9' \
@@ -38,11 +79,11 @@ In this lab I create an Amazon RDS MariaDB instance using the AWS CLI, migrate d
       ``` sql
       exit
       ```
-5. Configured the website to use the Amazon RDS instance
+4. Configured the website to use the Amazon RDS instance
    - AWS Management Console > Systems Manager > Parameter Store > /cafe/dbUrl > Edit
    - In the Parameter details page, I replaced the text in the Value box with the RDS Instance Database Endpoint Address
    - Save Changes
-6. Monitored the performance of a database instance
+5. Monitored the performance of a database instance
    - AWS Management Console > RDS > Databases > cafedbinstance > Monitoring tab
    - Observed the displayed metrics
 
