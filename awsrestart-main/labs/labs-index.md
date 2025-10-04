@@ -25,8 +25,7 @@ This file serves as a central index of all of the labs I completed, sorted by AW
 - [Lab 14: Build Your Database Server and Interact with Your DB Using an App](../databases/databases-labs/databases-lab-7.md)
 - [Lab 15: Introduction to Amazon Aurora](../databases/databases-labs/databases-lab-8.md)
 - [Lab 16: Introduction to Amazon DynamoDB](../databases/databases-labs/databases-lab-9.md)
-- [Lab 17: Build and Access an RDS Server](../databases/databases-labs/databases-lab-10.md)
-- [Lab 18: Migrate to Amazon RDS](../databases/databases-labs/databases-lab-11.md)
+- [Lab 17: Migrate to Amazon RDS](../databases/databases-labs/databases-lab-10.md)
 
 ## Networking
 - [Lab 19: Internet Protocols - Public and Private IP addresses](../networking/networking-labs/networking-lab-1.md)
