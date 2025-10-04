@@ -23,7 +23,27 @@ Use functions in the SELECT statement and WHERE clause<br>
       ``` sql
       SELECT sum(Population), avg(Population), max(Population), min(Population), count(Population) FROM world.country;
       ```
-6. 
+6. Spilt the string where a space occurs:
+      ``` sql
+      SELECT Region, substring_index(Region, " ", 1) FROM world.country;
+      ```             
+7. Searched the rows using a string fragment to filter the records that include Southern in the first part of the region name:
+      ``` sql
+      SELECT Name, Region from world.country WHERE substring_index(Region, " ", 1) = "Southern";
+      ```           
+8. Returned only regions that have fewer than 10 characters in their names:
+      ``` sql
+      SELECT Region FROM world.country WHERE LENGTH(TRIM(Region)) < 10;
+      ```
+9. Filtered duplicates:
+      ``` sql
+      SELECT DISTINCT(Region) FROM world.country WHERE LENGTH(TRIM(Region)) < 10;
+      ```
+10. Returned rows that have Micronesian/Caribbean as the name in the region column. The output should split the region as Micronesia and Caribbean into two separate columns: one named Region Name 1 and one named Region Name 2.
+      ``` sql
+      SELECT Name, substring_index(Region, "/", 1) as "Region Name 1",substring_index(region, "/", -1) as "Region Name 2" FROM world.country WHERE Region = "Micronesia/Caribbean";
+      ```
+
 ## Screenshot
 _(Optional – paste image if available)_
 
