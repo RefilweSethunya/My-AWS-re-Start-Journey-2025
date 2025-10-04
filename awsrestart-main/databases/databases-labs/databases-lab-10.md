@@ -107,6 +107,7 @@ In this lab I create an Amazon RDS MariaDB instance using the AWS CLI, migrate d
 <img width="1366" height="678" alt="image" src="https://github.com/user-attachments/assets/4a81b5d2-55f6-4731-8be2-91859eb4a334" />
 <img width="1366" height="682" alt="image" src="https://github.com/user-attachments/assets/63c7a267-7f61-448e-af20-64f69e8aea93" />
 <img width="1366" height="672" alt="image" src="https://github.com/user-attachments/assets/791157f7-1e47-4a79-a237-c90711bb5846" />
+<img width="1366" height="670" alt="image" src="https://github.com/user-attachments/assets/4e202c89-328e-4a09-b2ca-7f290a65ff1f" />
 <img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/4046352c-bf54-46a8-88c4-9c3ebf96096f" />
 
 
