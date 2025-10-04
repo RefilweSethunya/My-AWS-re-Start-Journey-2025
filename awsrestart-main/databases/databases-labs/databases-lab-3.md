@@ -88,7 +88,8 @@ Use the following operators to filter and organize query results:<br>
 
 
 ## Challenges
-- 
+- ...
 
 
 ## Takeaways
+To count the number of rows that have a value in a specific column, we can include the column name as a parameter in the COUNT() function like COUNT(Population)
