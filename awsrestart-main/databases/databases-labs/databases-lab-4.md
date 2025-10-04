@@ -41,6 +41,10 @@ SELECT SUM(SurfaceArea) as "N. America Surface Area", SUM(Population) as "N. Ame
 ```
 
 ## Screenshot
+<img width="1366" height="676" alt="image" src="https://github.com/user-attachments/assets/f112abc2-8a26-4add-adaf-cb4dafe93c68" />
+<img width="1366" height="676" alt="image" src="https://github.com/user-attachments/assets/a85181f4-ac19-4c88-9db7-7201c6362e02" />
+<img width="1366" height="678" alt="image" src="https://github.com/user-attachments/assets/a7eac24f-c681-4ce9-9ebf-323bf2e5de90" />
+<img width="1366" height="679" alt="image" src="https://github.com/user-attachments/assets/bdf5baca-868a-475f-bfd7-508982d21c7f" />
 
 
 ## Challenges
