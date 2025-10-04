@@ -48,5 +48,5 @@ SELECT SUM(SurfaceArea) as "N. America Surface Area", SUM(Population) as "N. Ame
 
 
 ## Takeaways
-When using the BETWEEN operator, the query is easier to read and the operator is inclusive. The beginning and ending values are included.<br>
+When using the BETWEEN operator, the query is easier to read and the operator is inclusive i.e. the beginning and ending values are included.<br>
 SQL is not a case-sensitive language.
