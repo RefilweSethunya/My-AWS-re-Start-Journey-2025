@@ -6,7 +6,7 @@ Use INSERT statement to add rows into a table<br> Use UPDATE statement to modify
 
 ## Steps Taken
 1. Logged into the AWS Management Console
-2. Connected to the instance containing the database client.
+2. Connected to the instance containing the database client (Command Host)
 3. Ran the following query to show the existing databases:
       ```sql
       SHOW DATABASES;
@@ -77,7 +77,14 @@ Use INSERT statement to add rows into a table<br> Use UPDATE statement to modify
       ```
 
 ## Screenshot
-_(Optional – paste image if available)_
+<img width="1366" height="675" alt="image" src="https://github.com/user-attachments/assets/d9ad8147-9baa-41af-ab99-9d499c24c71f" />
+<img width="1366" height="673" alt="image" src="https://github.com/user-attachments/assets/c1c229c7-ae55-4815-9800-edd895ae5fea" />
+<img width="1366" height="360" alt="image" src="https://github.com/user-attachments/assets/6c03d57d-80f4-4393-ad42-8628071e72ce" />
+<img width="1366" height="680" alt="image" src="https://github.com/user-attachments/assets/748f5986-08a5-4ece-9e23-9c132b5aaf11" />
+<img width="1366" height="668" alt="image" src="https://github.com/user-attachments/assets/850a7022-440f-4427-80b0-f9c004a76ab2" />
+<img width="1366" height="681" alt="image" src="https://github.com/user-attachments/assets/c6eab772-95e7-4440-b007-fa2a19a1943e" />
+<img width="1366" height="676" alt="image" src="https://github.com/user-attachments/assets/8d22f85e-d986-49d4-af0b-62a2b2b749f8" />
+
 
 ## Challenges
 - ...
