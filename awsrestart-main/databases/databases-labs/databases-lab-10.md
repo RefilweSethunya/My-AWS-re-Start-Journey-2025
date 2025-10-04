@@ -112,11 +112,11 @@ In this lab I create an Amazon RDS MariaDB instance using the AWS CLI, migrate d
 
 
 ## Challenges
-- Accidentally created subnets in the same az, so I had to deletec the second subnet and even the subnetid changed, in order to create subnet group
+- I initially created both subnets in the same Availability Zone, which did not meet the RDS subnet group requirement for multi-AZ coverage. To resolve this, I had to delete the second subnet and recreate it in a different AZ. This also resulted in a new Subnet ID being generated before I could successfully build the subnet group. Here is the error and the solution.
 <img width="1366" height="191" alt="image" src="https://github.com/user-attachments/assets/ad1df002-c85b-4975-bdf7-cf68f62be2e7" />
 <img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/870fb7b2-2997-46c8-816b-1b3cd99f7940" />
 <br>
-- the maria db version in the command was not supported in Amazon RDS (version 10.5.13). So I had to find the list of supported ones available, opted for version 10.5.25 which worked
+- The MariaDB version I specified in the command (10.5.13) was not supported in Amazon RDS. I had to list the available engine versions and then select 10.5.25, which worked successfully.
 <img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/cc61c589-0b32-40c7-a840-b325d8425258" />
 <img width="1366" height="677" alt="image" src="https://github.com/user-attachments/assets/e607cd0f-e3f4-4d3f-87ca-082cf7948d4d" />
 
