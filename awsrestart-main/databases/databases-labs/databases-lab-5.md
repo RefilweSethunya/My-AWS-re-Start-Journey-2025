@@ -45,10 +45,11 @@ Use functions in the SELECT statement and WHERE clause<br>
       ```
 
 ## Screenshot
-_(Optional – paste image if available)_
+
 
 ## Challenges
-- 
+-...
 
 
 ## Takeaways
+TRIM() clears leading and trailing blank spaces, and the LENGTH() function returns a count of the remaining characters.
