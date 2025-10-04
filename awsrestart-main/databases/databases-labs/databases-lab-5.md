@@ -1,6 +1,7 @@
 # Databases Lab: Working with Functions
 
 ## Objective
+<img width="1578" height="948" alt="image" src="https://github.com/user-attachments/assets/131aa146-0e4d-43ba-8fc4-24a8638a8cab" />
 
 
 ## Steps Taken
