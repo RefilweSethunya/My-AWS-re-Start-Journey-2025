@@ -67,6 +67,25 @@ Use the following operators to filter and organize query results:<br>
      
 ## Screenshot
 
+<img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/683acb24-5ac2-49f6-bbc9-24532ae478a4" />
+
+<img width="1366" height="676" alt="image" src="https://github.com/user-attachments/assets/837af929-08eb-4f5f-b56d-ef8b96113528" />
+
+<img width="1366" height="675" alt="image" src="https://github.com/user-attachments/assets/707626ac-7973-4c13-866e-7668c3d9822f" />
+
+<img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/68894cae-e3bf-4c8d-ae54-9c303e9da225" />
+
+<img width="1366" height="673" alt="image" src="https://github.com/user-attachments/assets/905294d7-2ab8-4e3c-ad84-7a40f1dd4eea" />
+
+
+<img width="1366" height="675" alt="image" src="https://github.com/user-attachments/assets/8daaa33f-c31a-4381-b26f-2f71d2900d2d" />
+
+
+<img width="1366" height="673" alt="image" src="https://github.com/user-attachments/assets/fd605289-f1b9-4c8e-80d7-3a1c18c6327b" />
+
+
+<img width="1366" height="678" alt="image" src="https://github.com/user-attachments/assets/9e7c5d48-4528-4111-aad1-20cb64dc04a2" />
+
 
 ## Challenges
 - 
