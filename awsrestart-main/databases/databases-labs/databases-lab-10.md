@@ -56,6 +56,7 @@ In this lab I create an Amazon RDS MariaDB instance using the AWS CLI, migrate d
          --tags "Key=Name,Value= CafeDatabaseSubnetGroup"
          ```    
 3. Migrated the application data to the Amazon RDS instance
+   - Connected to CafeInstance
    - Created a backup of the local cafe_db database
       ``` sql
       mysqldump --user=root --password='Re:Start!9' \
@@ -95,16 +96,27 @@ In this lab I create an Amazon RDS MariaDB instance using the AWS CLI, migrate d
 <img width="1366" height="672" alt="image" src="https://github.com/user-attachments/assets/5a47645b-a156-476e-b832-fb6196531d82" />
 <img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/de647a0d-4336-4f86-b283-eca1114af1ac" />
 <img width="1366" height="676" alt="image" src="https://github.com/user-attachments/assets/fbade070-d9e6-4f1b-b3c1-ca48bc421679" />
+<img width="1366" height="672" alt="image" src="https://github.com/user-attachments/assets/5d060abb-0c52-4fd6-b128-f30200291d3b" />
+<img width="1366" height="330" alt="image" src="https://github.com/user-attachments/assets/9602a497-9afb-4924-86b5-ac134043fdf2" />
+<img width="1366" height="539" alt="image" src="https://github.com/user-attachments/assets/f2838406-2837-4499-8e64-17396a4a5343" />
+<img width="1366" height="670" alt="image" src="https://github.com/user-attachments/assets/40cfe3cc-667e-418c-9ab3-b0520983326a" />
+<img width="1366" height="673" alt="image" src="https://github.com/user-attachments/assets/3341d8b0-4369-422e-96e5-293e2e0dc5fc" />
+<img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/b5f76281-5b86-4c67-af02-25b020d6b02c" />
+<img width="1366" height="675" alt="image" src="https://github.com/user-attachments/assets/2ee80d9e-fc66-4b46-805c-c2c3c7aff81a" />
+<img width="1366" height="678" alt="image" src="https://github.com/user-attachments/assets/4a81b5d2-55f6-4731-8be2-91859eb4a334" />
+<img width="1366" height="682" alt="image" src="https://github.com/user-attachments/assets/63c7a267-7f61-448e-af20-64f69e8aea93" />
+<img width="1366" height="672" alt="image" src="https://github.com/user-attachments/assets/791157f7-1e47-4a79-a237-c90711bb5846" />
+<img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/4046352c-bf54-46a8-88c4-9c3ebf96096f" />
 
 
 ## Challenges
-- Accidentally created subnets in the same az, so I had to deletec the second subnet and even the subnetid changed, in order to create subnet group.
-- <img width="1366" height="191" alt="image" src="https://github.com/user-attachments/assets/ad1df002-c85b-4975-bdf7-cf68f62be2e7" />
+- Accidentally created subnets in the same az, so I had to deletec the second subnet and even the subnetid changed, in order to create subnet group
+<img width="1366" height="191" alt="image" src="https://github.com/user-attachments/assets/ad1df002-c85b-4975-bdf7-cf68f62be2e7" />
 <img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/870fb7b2-2997-46c8-816b-1b3cd99f7940" />
 <br>
-- the maria db version in the command was not supported so I had to find the list of supported ones available, opted for version 10.5.25 which worked
-- <img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/cc61c589-0b32-40c7-a840-b325d8425258" />
-- <img width="1366" height="677" alt="image" src="https://github.com/user-attachments/assets/e607cd0f-e3f4-4d3f-87ca-082cf7948d4d" />
+- the maria db version in the command was not supported in Amazon RDS (version 10.5.13). So I had to find the list of supported ones available, opted for version 10.5.25 which worked
+<img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/cc61c589-0b32-40c7-a840-b325d8425258" />
+<img width="1366" height="677" alt="image" src="https://github.com/user-attachments/assets/e607cd0f-e3f4-4d3f-87ca-082cf7948d4d" />
 
 
 
