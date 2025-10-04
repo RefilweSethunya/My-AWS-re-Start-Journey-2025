@@ -42,7 +42,10 @@ This lab gives an introduction to Amazon Aurora, a fully managed, MySQL-compatib
    - Connect to the database
       ```bash
       mysql -u admin --password='admin123' -h <endpoint_URL>
+      mysql -u admin --password='admin123' -h aurora.cluster-cg3cpbctmsdr.us-west-2.rds.amazonaws.com
       ```
+
+   
     - Listed the available databases:
       ```sql
       SHOW DATABASES;
@@ -89,7 +92,19 @@ This lab gives an introduction to Amazon Aurora, a fully managed, MySQL-compatib
       ```
 
 ## Screenshot
+<img width="1366" height="672" alt="image" src="https://github.com/user-attachments/assets/97b615e1-b7a4-44ef-b3c7-142ec868ce41" />
+<img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/23a37811-f52e-4b7b-a4d0-8e29c4aec381" />
+<img width="1366" height="672" alt="image" src="https://github.com/user-attachments/assets/6f4a1462-8e49-40d1-b480-c00606921bf2" />
+<img width="1366" height="673" alt="image" src="https://github.com/user-attachments/assets/60916c72-7bec-4c6c-80bd-da2356dbb694" />
+<img width="1366" height="680" alt="image" src="https://github.com/user-attachments/assets/b9317fd9-874f-40be-90aa-edd65d4c1578" />
+<img width="1366" height="673" alt="image" src="https://github.com/user-attachments/assets/60f19dba-5685-474b-afc3-03b2171047b2" />
+<img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/99d52e3d-8c9f-48ed-97a0-d78f0f81d256" />
+<img width="1366" height="675" alt="image" src="https://github.com/user-attachments/assets/fef1db07-aa06-459d-aa8d-a6a4cd47848e" />
+<img width="1366" height="677" alt="image" src="https://github.com/user-attachments/assets/ad5835c4-9c4b-48d9-8a0f-c4854eb87d64" />
+<img width="1366" height="676" alt="image" src="https://github.com/user-attachments/assets/f6966baf-c581-4541-9a7f-0c4a659e4e3e" />
 
+<img width="1366" height="673" alt="image" src="https://github.com/user-attachments/assets/01529f91-9d49-43da-9c7d-5ba80b2836bc" />
+<img width="1366" height="677" alt="image" src="https://github.com/user-attachments/assets/0e5ffd87-8bdc-4899-a566-181628702a8f" />
 
 ## Challenges
 - 
