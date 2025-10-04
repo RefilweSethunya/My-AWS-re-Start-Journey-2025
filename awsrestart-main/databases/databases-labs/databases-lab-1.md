@@ -7,7 +7,7 @@ Use CREATE statement to create databases and tables<br> Use SHOW statement to vi
 
 ## Steps Taken
 1. Logged into the AWS Management Console
-2. Connected to the Command Host
+2.  Connected to the instance containing the database client (Command Host)
 3. Created a database(world) and a table(country)
 4. Showed the existing databases by running:
     ```sql
