@@ -45,6 +45,12 @@ Use functions in the SELECT statement and WHERE clause<br>
       ```
 
 ## Screenshot
+<img width="1366" height="679" alt="image" src="https://github.com/user-attachments/assets/ebe04db4-5792-4186-b084-f22d63bd658d" />
+<img width="1366" height="677" alt="image" src="https://github.com/user-attachments/assets/5aea3f14-c7ae-453b-9d64-c17ec09adf75" />
+<img width="1366" height="675" alt="image" src="https://github.com/user-attachments/assets/cba1de48-e6a4-4021-adbb-d2fe6d943624" />
+<img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/77953c8f-ade8-4489-86b9-6e09a2a3f591" />
+<img width="1366" height="673" alt="image" src="https://github.com/user-attachments/assets/66359f96-5f3c-4b2f-a347-daf626de9021" />
+<img width="1366" height="679" alt="image" src="https://github.com/user-attachments/assets/3ceb2b3a-68eb-4eee-a539-f0605562f1ef" />
 
 
 ## Challenges
