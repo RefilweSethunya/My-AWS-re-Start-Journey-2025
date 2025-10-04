@@ -1,6 +1,9 @@
 # Databases Lab: Organizing Data
 
 ## Objective
+Use the GROUP BY clause with the aggregate function SUM()<br>
+Use the OVER clause with the RANK() window function<br>
+Use the OVER clause with the aggregate function SUM() and the RANK() window function
 <img width="1582" height="884" alt="image" src="https://github.com/user-attachments/assets/151a5c16-dc06-47bf-a62f-59d351ed1156" />
 
 
