@@ -37,7 +37,12 @@
       ```
 
 ## Screenshot
-_(Optional – paste image if available)_
+<img width="1366" height="673" alt="image" src="https://github.com/user-attachments/assets/9bc0b5ac-c4aa-4998-b01e-1b91d2ccf875" />
+<img width="1366" height="677" alt="image" src="https://github.com/user-attachments/assets/719483f6-536a-48bc-b632-7b8e87097584" />
+<img width="1366" height="680" alt="image" src="https://github.com/user-attachments/assets/0e3df646-6796-4a07-ab2e-b202f64d8630" />
+<img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/f2e87d65-80b8-43b9-beeb-6b67e74f7d1a" />
+
+<img width="1366" height="679" alt="image" src="https://github.com/user-attachments/assets/e7e9d009-b2e9-4659-a5f1-700f4c230059" />
 
 ## Challenges
 - 
