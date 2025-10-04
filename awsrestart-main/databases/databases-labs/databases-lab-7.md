@@ -66,6 +66,9 @@ Final Architecture
 <img width="1366" height="672" alt="image" src="https://github.com/user-attachments/assets/b29b40ee-7321-42fb-a6e6-746dc8cf02b7" />
 <img width="1366" height="673" alt="image" src="https://github.com/user-attachments/assets/f4bee373-407e-4002-91d0-45684812931a" />
 <img width="1366" height="669" alt="image" src="https://github.com/user-attachments/assets/c12656e3-3896-4c12-94cb-6e49fb5a67aa" />
+<img width="1366" height="411" alt="image" src="https://github.com/user-attachments/assets/193b139b-3bda-441a-bad8-5f834860a2bb" />
+<img width="1366" height="472" alt="image" src="https://github.com/user-attachments/assets/8415cf3a-6c9e-454f-a55a-08add69beaab" />
+<img width="1366" height="461" alt="image" src="https://github.com/user-attachments/assets/53785b8e-b848-4fee-bb7c-2592620f1803" />
 
 
 
