@@ -7,20 +7,6 @@ This lab is designed to reinforce the concept of leveraging an AWS-managed datab
 1. Logged into the AWS Management Console
 2. Launch an Amazon RDS DB instance
 
-## Sample Query
-```sql
-SELECT users.name, orders.amount
-FROM users
-JOIN orders ON users.id = orders.user_id
-WHERE orders.amount > 100;
-```
-```sql
-SELECT users.name, orders.amount
-FROM users
-JOIN orders ON users.id = orders.user_id
-WHERE orders.amount > 100;
-```
-
 ## Screenshot
 _(Optional – paste image if available)_
 
