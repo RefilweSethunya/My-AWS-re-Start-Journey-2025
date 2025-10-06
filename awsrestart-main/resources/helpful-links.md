@@ -21,6 +21,7 @@ I relied on the below links while completing labs, projects and exercises throug
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/) – Guided design choices for my projects  
 - [AWS Skills Builder Training](https://explore.skillbuilder.aws/) – Completed interactive labs and assessments to reinforce core services knowledge
 - [AWS Policy Generator Tool](https://awspolicygen.s3.amazonaws.com/policygen.html) – Practiced creating IAM policies during security labs
+- [AWS CLI Reference page for CloudTrail](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/) - Practiced analyzing CloudTrail logs during monitoring labs
 
 ---
 
