@@ -102,7 +102,8 @@ Practice deploying and managing a static website using Amazon S3 and the AWS CLI
      ./update-website.sh
      ```
 ## Challenges
-- 
+- I encountered errors due to bucket name conflicts as the names I initially selected (i.e. refilwes, refilwesethunya) were already in use
+- I resolved this by creating a unique identifier, appending numbers to the bucket name (refilwesethunya779618), which successfully eliminated the conflict. 
 
 ## Screenshot
 CLI Config
@@ -131,4 +132,4 @@ CLI Config
 
 
 ## Takeaways
-I learned how S3 can serve as a simple and scalable hosting solution for static web content.
+I learned how S3 can serve as a simple and scalable hosting solution for static web content. This exercise also reinforced my understanding of globally unique S3 bucket naming conventions and highlighted that naming conflicts are expected. It is therefore important to plan and adapt effectively when provisioning resources.
