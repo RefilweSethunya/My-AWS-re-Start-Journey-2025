@@ -106,6 +106,18 @@ Practice deploying and managing a static website using Amazon S3 and the AWS CLI
 
 ## Screenshot
 CLI Config
+<img width="1366" height="280" alt="image" src="https://github.com/user-attachments/assets/52d4ff19-b43c-4535-b7ee-53f7becc5268" />
+
+<img width="1366" height="680" alt="image" src="https://github.com/user-attachments/assets/1f683732-2888-4a8e-864a-d81a7f4d091b" />
+<img width="1366" height="184" alt="image" src="https://github.com/user-attachments/assets/a6bccdd3-5f61-46ea-944a-50baaba64593" />
+
+<img width="1366" height="380" alt="image" src="https://github.com/user-attachments/assets/7d2833c8-a0a6-4128-ae6f-28575cbc6cea" />
+<img width="1366" height="679" alt="image" src="https://github.com/user-attachments/assets/09e836a4-2ea6-4b9f-aa44-d0f70c0bf5a7" />
+<img width="1366" height="535" alt="image" src="https://github.com/user-attachments/assets/495b1eec-9a2c-4772-ad48-f262429127ee" />
+<img width="1366" height="660" alt="image" src="https://github.com/user-attachments/assets/56bfa549-abfb-41f8-8df5-6a55930d45a4" />
+<img width="1366" height="675" alt="image" src="https://github.com/user-attachments/assets/624ca00d-e2d1-49f7-96a2-5f8743caaa7e" />
+<img width="1366" height="667" alt="image" src="https://github.com/user-attachments/assets/c4bf2158-afc8-4e64-86a4-084ea42adda3" />
+
 
 
 
