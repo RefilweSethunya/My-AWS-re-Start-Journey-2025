@@ -48,7 +48,26 @@ Learn how to create an AWS CloudTrail trail that audits actions taken in your ac
        gunzip *.gz
        ```
    - Analyzed the logs by using grep
+     - Analyzed structure of the logs:
+       ``` bash
+       cat <filename.json> | python -m json.tool
+       ```
+     - Set the WebServerIP address as a variable for use in future commands:
+       ``` bash
+       ip=<WebServerIP>
+       ```
+     - Filtered log entries for the source IP Address:
+       ``` bash
+       for i in $(ls); do echo $i && cat $i | python -m json.tool | grep sourceIPAddress ; done
+       ```
+     - Filtered log entries for the event name:
+       ``` bash
+       for i in $(ls); do echo $i && cat $i | python -m json.tool | grep eventName ; done
+       ```
    - Analyze the logs by using AWS CLI CloudTrail commands
+     - Run the following command to find any actions that were taken on security groups in the AWS account
+     - Run the following commands to find the security group ID that is used by the Café Web Server instance, and then echo the result to the terminal:
+     - filter your AWS CLI CloudTrail command results:
 6. Analyzed the CloudTrail logs by using Athena
 7. Analyzed the hack further and improved security
 
@@ -59,3 +78,5 @@ Learn how to create an AWS CloudTrail trail that audits actions taken in your ac
 
 
 ## Takeaways
+Useful for CloudTrail API Reference. It provides descriptions of actions, data types, common parameters, and common errors for CloudTrail
+https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/
