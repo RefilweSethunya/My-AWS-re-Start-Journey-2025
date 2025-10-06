@@ -65,11 +65,77 @@ Learn how to create an AWS CloudTrail trail that audits actions taken in your ac
        for i in $(ls); do echo $i && cat $i | python -m json.tool | grep eventName ; done
        ```
    - Analyze the logs by using AWS CLI CloudTrail commands
-     - Run the following command to find any actions that were taken on security groups in the AWS account
-     - Run the following commands to find the security group ID that is used by the Café Web Server instance, and then echo the result to the terminal:
-     - filter your AWS CLI CloudTrail command results:
-6. Analyzed the CloudTrail logs by using Athena
-7. Analyzed the hack further and improved security
+     - To filter the trail for console logins:
+       ``` bash
+       aws cloudtrail lookup-events --lookup-attributes AttributeKey=EventName,AttributeValue=ConsoleLogin
+       ```
+     - To find any actions that were taken on security groups in the AWS account:
+       ``` bash
+       aws cloudtrail lookup-events --lookup-attributes AttributeKey=ResourceType,AttributeValue=AWS::EC2::SecurityGroup --output text
+       ```
+     - To find the security group ID that is used by the Café Web Server instance, and then echo the result to the terminal:
+         ``` bash
+         region=$(curl http://169.254.169.254/latest/dynamic/instance-identity/document|grep region | cut -d '"' -f4)
+         sgId=$(aws ec2 describe-instances --filters "Name=tag:Name,Values='Cafe Web Server'" --query 'Reservations[*].Instances[*].SecurityGroups[*].[GroupId]' --region $region --output text)
+         echo $sgId
+         ```
+     - To filter my AWS CLI CloudTrail command results:
+       ``` bash
+       aws cloudtrail lookup-events --lookup-attributes AttributeKey=ResourceType,AttributeValue=AWS::EC2::SecurityGroup --region $region --output text | grep $sgId
+       ```
+5. Analyzed the CloudTrail logs by using Athena
+   - Created the Athena table
+     - AWS Management Console Services > CloudTrail > Event history > Create Athena table
+     - Storage location: monitoring####
+     - Create table > Create table
+   - Analyzed logs using Athena
+     - AWS Management Console Services > Analytics > Athena > Athena Query Editor > Explore query editor
+     - Set up a query results location and then running a simple query:
+       - Settings > Manage > Configured Location of query result to s3://monitoring####/results/ > Save
+       - Selected Editor table and pasted the following SQL query into the Query 1 panel. Replacing #### with the numbers in my actual table, and clicked Run:
+       ``` sql
+       SELECT *
+       FROM cloudtrail_logs_monitoring####
+       LIMIT 5
+       ```
+     - Run a new query that selects only those columns that were previously mentioned:
+      ``` sql
+      SELECT useridentity.userName, eventtime, eventsource, eventname, requestparameters
+      FROM cloudtrail_logs_monitoring####
+      LIMIT 30
+      ```
+6. Analyzed the hack further and improved security (secured both my AWS account and the web server instance)
+   - Checked the OS users
+   - Updated SSH security
+     - Analyzed SSH settings on the instance
+       ``` bash
+       sudo ls -l /etc/ssh/sshd_config
+       ```
+     - Edited the SSH configuration file in the VI editor:
+       ``` bash
+       sudo vi /etc/ssh/sshd_config
+       ```
+     - Restarted the SSH service for changes to go into effect
+       ``` bash
+       sudo service sshd restart
+       ```
+     - Deleted the inbound rule hacker created (inbound rule that allows port 22 access from 0.0.0.0/0)
+       - EC2 > Instances > Café Web Server (WebSecurityGroup) instance > Security > sg-xxx security group > Inbound rules tab > Edit inbound rules > Select rule and deleted it
+   - Fixed the website
+     - Navigated to the directory where the website image files are held
+         ``` bash
+         cd /var/www/html/cafe/images/
+         ls -l
+         ```
+     - Restored the original graphic on the website
+         ``` bash
+         sudo mv Coffee-and-Pastries.backup Coffee-and-Pastries.jpg
+         ```
+     - Reloaded the website to test
+       Got to http://WebServerIP/cafe 
+   - Deleted the AWS hacker user
+     - AWS Management Console Services > IAM > Users > selected the check box next to the chaos user > Delete > Delete
+   
 
 ## Challenges
 - ...
@@ -78,5 +144,7 @@ Learn how to create an AWS CloudTrail trail that audits actions taken in your ac
 
 
 ## Takeaways
+Athena is an interactive query service that makes it easy to analyze data in Amazon S3 by using standard SQL. Meaning that all the log data were in a database and you could use structured query language (SQL) queries to search for the log entries that you are most interested in.
+
 Useful for CloudTrail API Reference. It provides descriptions of actions, data types, common parameters, and common errors for CloudTrail
 https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/
