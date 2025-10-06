@@ -20,7 +20,35 @@ Learn how to create an AWS CloudTrail trail that audits actions taken in your ac
      - Selected create a new s3 bucket
      - Trail log bucket and folder:  monitoring#### (where the #### characters are four random digits)
      - AWS KMS alias: myinitials followed by -KMS (for example, RSK-KMS)
-5. Analyzed the CloudTrail logs by using grep
+   - Next > Next > Create Trail
+   - EC2 > Instances > Café Web Server (WebSecurityGroup) instance > Security > sg-xxx security group > Inbound rules tab
+   - Observed to see that someone else created an additional inbound rule that allows Secure Shell (SSH) access from anywhere (0.0.0.0/0)
+   - Who added this security hole? I searched the CloudTrail logs using grep and Athena in the next steps to find out
+4. Analyzed the CloudTrail logs by using grep Linux utility
+   - Connected to the Café Web Server host EC2 instance by using SSH
+     - Created a local directory on the web server to download the CloudTrail log files to:
+       ``` bash
+       mkdir ctraillogs
+       ```
+     - Changed the directory to the new directory:
+       ``` bash
+       cd ctraillogs
+       ```
+     - Listed the buckets:
+       ``` bash
+       aws s3 ls
+       ```
+   - Downloaded and extracted the CloudTrail logs
+     - Downloaded the CloudTrail logs:
+       ``` bash
+       aws s3 cp s3://<monitoring####>/ . --recursive
+       ```
+     - The log files end in json.gz which indicates that they are compressed as GNU zip files so I ran the following command to extract the logs:
+       ``` bash
+       gunzip *.gz
+       ```
+   - Analyzed the logs by using grep
+   - Analyze the logs by using AWS CLI CloudTrail commands
 6. Analyzed the CloudTrail logs by using Athena
 7. Analyzed the hack further and improved security
 
