@@ -117,7 +117,16 @@ CLI Config
 <img width="1366" height="660" alt="image" src="https://github.com/user-attachments/assets/56bfa549-abfb-41f8-8df5-6a55930d45a4" />
 <img width="1366" height="675" alt="image" src="https://github.com/user-attachments/assets/624ca00d-e2d1-49f7-96a2-5f8743caaa7e" />
 <img width="1366" height="667" alt="image" src="https://github.com/user-attachments/assets/c4bf2158-afc8-4e64-86a4-084ea42adda3" />
-
+<img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/15694ac7-4e64-4483-933a-2365a8feeafe" />
+<img width="1366" height="260" alt="image" src="https://github.com/user-attachments/assets/90536e44-96e1-436b-8dd7-ca5b54ec9b61" />
+<img width="1366" height="143" alt="image" src="https://github.com/user-attachments/assets/d72996fa-1a0d-432d-985d-849fdaca48a5" />
+<img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/d3f7d4c0-39e4-4c76-a931-e32ee6151379" />
+<img width="1366" height="671" alt="image" src="https://github.com/user-attachments/assets/688a3626-4ab9-41cf-8c75-befd5d9b5c86" />
+<img width="1366" height="722" alt="image" src="https://github.com/user-attachments/assets/24a79316-140c-4910-a3fd-6683c8c8e6d2" />
+<img width="1366" height="487" alt="image" src="https://github.com/user-attachments/assets/5d78a238-2ec0-460b-a819-cdeb27d80b2b" />
+<img width="1366" height="674" alt="image" src="https://github.com/user-attachments/assets/dab0295c-8960-49a4-b179-7753491bd31b" />
+<img width="1366" height="528" alt="image" src="https://github.com/user-attachments/assets/36b7aa35-e95b-4e3d-a571-5b6745dba6e0" />
+<img width="1366" height="730" alt="image" src="https://github.com/user-attachments/assets/aaf01a4b-36e2-4808-9198-a7ee6c3ef47a" />
 
 
 
