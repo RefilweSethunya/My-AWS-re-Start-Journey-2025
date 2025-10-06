@@ -11,7 +11,7 @@ Practice deploying and managing a static website using Amazon S3 and the AWS CLI
      ```
 2. Created an S3 bucket using the AWS CLI
    - ``` bash
-     aws s3api create-bucket --bucket <twhitlock256> --region us-west-2 --create-bucket-configuration LocationConstraint=us-west-2
+     aws s3api create-bucket --bucket <my-bucket> --region us-west-2 --create-bucket-configuration LocationConstraint=us-west-2
      ```
    - When the command is successful, you will get a JSON-formatted response with a Location name-value pair, where the value reflects the bucket name
 3. Created a new IAM user that has full access to Amazon S3
