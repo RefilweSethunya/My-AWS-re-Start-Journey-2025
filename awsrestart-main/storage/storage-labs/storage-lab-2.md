@@ -2,8 +2,7 @@
 
 ## Objective
 Practice deploying and managing a static website using Amazon S3 and the AWS CLI through running AWS CLI commands that interact with IAM and S3 services, to create an S3 bucket and configure it to host a static website. Then uploading website files to the bucket. And finally, verifying that the website is accessible through the provided S3 website URL.
-<img width="1654" height="787" alt="image" src="https://github.com/user-attachments/assets/f490f663-15e7-4c9e-954c-b89866dbca94" />
-
+<img width="804" height="401" alt="image" src="https://github.com/user-attachments/assets/0f91c7ee-0866-480f-abb3-6f948138dc11" />
 
 ## Steps Taken
 1. Configured the AWS CLI
@@ -107,7 +106,7 @@ Practice deploying and managing a static website using Amazon S3 and the AWS CLI
 
 ## Screenshot
 CLI Config
-<img width="1366" height="323" alt="image" src="https://github.com/user-attachments/assets/b36c22bd-b842-43e9-ab48-de7f93ef87a8" />
+
 
 
 ## Takeaways
