@@ -144,7 +144,6 @@ Learn how to create an AWS CloudTrail trail that audits actions taken in your ac
 
 
 ## Takeaways
-Athena is an interactive query service that makes it easy to analyze data in Amazon S3 by using standard SQL. Meaning that all the log data were in a database and you could use structured query language (SQL) queries to search for the log entries that you are most interested in.
-
-Useful for CloudTrail API Reference. It provides descriptions of actions, data types, common parameters, and common errors for CloudTrail
-https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/
+I deepened my understanding of how Amazon Athena can be used to query CloudTrail logs stored in S3 with standard SQL, making it possible and easy to search and analyze log data as if it were in a database.<br>
+Alternatively, we can programmatically use AWS CloudTrail commands. The CloudTrail API Reference provides descriptions of actions, data types, common parameters, and common errors for CloudTrail. 
+For future access I have also listed it along with other useful inks at [More Resources](../awsrestart-main/resources/helpful-links.md).
