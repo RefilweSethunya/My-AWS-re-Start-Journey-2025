@@ -1,17 +1,20 @@
 # Management, Monitoring and Automation Lab: Working with AWS CloudTrail
 
 ## Objective
-Learn how to launch and SSH into an EC2 instance
+Learn how to create an AWS CloudTrail trail that audits actions taken in your account. Then investigate to determine who modified the Café website.<br>
+<img width="814" height="437" alt="image" src="https://github.com/user-attachments/assets/463b70b3-3238-4266-afc6-861f883bd227" />
+
 
 ## Steps Taken
-1. Logged into AWS Console
-2. Launched EC2 instance (Ubuntu)
-3. Generated key pair
-4. SSH’d into the instance using Terminal
+1. Logged into AWS Management Console
+2. Modified the security group and observed the website
+3. Created a CloudTrail log and observed the hacked website
+4. Analyzed the CloudTrail logs by using grep
+5. Analyzed the CloudTrail logs by using Athena
+6. Analyzed the hack further and improved security
 
 ## Challenges
-- Forgot to open port 22 in the security group
-- Solved by editing the inbound rules
+- ...
 
 ## Screenshot
 _(Optional – paste image if available)_
