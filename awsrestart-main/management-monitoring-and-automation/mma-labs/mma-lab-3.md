@@ -144,6 +144,6 @@ Learn how to create an AWS CloudTrail trail that audits actions taken in your ac
 
 
 ## Takeaways
-I deepened my understanding of how Amazon Athena can be used to query CloudTrail logs stored in S3 with standard SQL, making it possible and easy to search and analyze log data as if it were in a database.<br>
-Alternatively, we can programmatically use AWS CloudTrail commands. The CloudTrail API Reference provides descriptions of actions, data types, common parameters, and common errors for CloudTrail. 
-For future reference I have also listed it under along with other useful links at [More Resources](../../resources/helpful-links.md)
+I deepened my understanding of how Amazon Athena can be used to query CloudTrail logs stored in S3 with standard SQL, making it possible and easy to search and analyze log data as if it were in a database.<br><br>
+Alternatively, we can programmatically use AWS CloudTrail commands.<br>The [AWS CloudTrail API Reference](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/) provides us with descriptions of actions, data types, common parameters, and common errors for CloudTrail.<br> 
+For future reference I have also listed it under "AWS Services & Documentation" along with other useful links at [More Resources](../../resources/helpful-links.md)
