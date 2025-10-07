@@ -1,7 +1,12 @@
 # Python Lab: Numeric data types
 
 ## Objective
-Learn how to launch and SSH into an EC2 instance
+Explore the basic data types that are used to store numeric values.
+- Use the Python shell
+- Use the int data type
+- Use the float data type
+- Use the complex data type
+- Use the bool data type
 
 ## Steps Taken
 1. Logged into AWS Console
