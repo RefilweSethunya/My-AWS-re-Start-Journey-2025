@@ -10,16 +10,14 @@
   python3 file.py
   ```
   
-## 
-
-1. Write the script
+## Steps Taken
+1. Write the script for prime_and_proper.py using nano editor
     ``` python
-    # prime_numbers.py
-    # A spunky little script that hunts down prime numbers between 1 and 250
-    # and drops them into results.txt like a boss.
+    # prime_and_proper.py is the name of the file 
+    # My spunky little script that hunts down prime numbers between 1 and 250
+    # afterwards output them into results.txt
     
     def is_prime(n):
-        """Prime checker: because not all numbers are worthy."""
         if n < 2:
             return False
         for i in range(2, int(n**0.5) + 1):
@@ -37,8 +35,8 @@
         with open(file_path, "w") as f:
             f.write("\n".join(primes))
     
-        # Print with some flair
-        print("Boom! All done.")
+        # Prints to user
+        print("Ta-da! All done.")
         print(f"Counted {len(primes)} prime numbers between 1 and 250.")
         print(f"They're chilling in {file_path} — go take a look.")
     
@@ -49,7 +47,7 @@
    
 3. Run the script
    ``` bash
-   python3 steak_your_primes.py
+   python3 prime_and_proper.py
    ```
 4. Verify the output
    ``` bash
@@ -61,6 +59,12 @@
 - ...
 
 ## Screenshot
+CLI
+<img width="1366" height="725" alt="image" src="https://github.com/user-attachments/assets/e2bd95cd-5a2f-4449-a3a0-0b51995c9ffa" />
+The script in nano editor
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bcfc5d6b-58ff-4021-a525-657265a7e7e8" />
+Displaying the results from results.txt
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/14b4e09c-9eaa-41bc-85f2-3baa3e89b7c1" />
 
 
 ## Takeaways
