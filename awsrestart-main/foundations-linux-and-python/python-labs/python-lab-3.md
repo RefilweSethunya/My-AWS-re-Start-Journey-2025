@@ -1,7 +1,12 @@
 # Python Lab: String data type
 
 ## Objective
-Learn how to launch and SSH into an EC2 instance
+Learn how to use strings in python for input and output.
+- Write Python code that uses the string data type
+- Concatenate strings
+- Use the string to get input
+- Format strings for output
+
 
 ## Steps Taken
 1. Logged into AWS Console
