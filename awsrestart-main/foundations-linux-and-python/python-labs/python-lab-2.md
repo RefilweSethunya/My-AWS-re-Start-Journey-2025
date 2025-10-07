@@ -14,30 +14,38 @@ Explore the basic data types that are used to store numeric values.
 3. Created Python Exercise File
    - In the AWS Cloud9 IDE, File > New From Template > Python File.
    - File > Save As > NumericDataTypes.py
-4. Accessed the terminal session
-   - Start the Python shell and displayed the present working directory:
+4. Started the terminal shell
+   - In the AWS Cloud9 IDE > Selected the (+) icon > New Terminal
+   - Displayed the present working directory and located NumericDataTypes.py file:
      ``` bash
      pwd
      ```
-5. Using the Python shell
-   - Start Python shell
+     ``` bash
+     ls
+     ```
+   - In this terminal shell a python shell can be started by running:
      ``` python
      python3
      ```
-   - Issued Numeric Commands
+   - Practices using the python shell by issuing Numeric Commands:
+     - Input the following code and confirm output is 4:
      ``` python
      2+2
      ```
+     - Input the following code and confirm output is 2:
      ```python
      4-2
      ```
+     - Input the following code and confirm output is 4:
      ``` python
      2*2
      ```
+     - Input the following code and confirm output is 2.0:
      ``` python
      4/2
      ```
-     ```
+     -  Input the following to exit python shell:
+     ``` python
      quit()
      ```
 6. Introducing the int data type
@@ -45,7 +53,7 @@ Explore the basic data types that are used to store numeric values.
      ``` python
      print("Python has three numeric types: int, float, and complex")
      ```
-   - Run the program at the top of the IDE window:
+   - Saved the file, and run the program at the top of the IDE window:
      File > Save > Run
    - We can also run in the terminal tab by running:
      ``` python
@@ -56,11 +64,11 @@ Explore the basic data types that are used to store numeric values.
        ``` python
        myValue=1
        ```
-     - write value of variable to the shell
+     - write value of variable to the shell by using the print() function:
        ``` python
        print(myValue)
        ```
-     - get data type of variable
+     - get data type of variable by using the type() built-in function:
        ``` python
        print(type(myValue))
        ```
