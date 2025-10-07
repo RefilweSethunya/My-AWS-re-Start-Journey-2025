@@ -12,7 +12,12 @@
   
 ## Steps Taken
 1. Write the script for prime_and_proper.py using nano editor
-    ``` python
+   ``` bash
+   nano prime_and_proper.py
+   ```
+
+    Copy and Paste the following lines into nano
+   ``` python
     # prime_and_proper.py is the name of the file 
     # My spunky little script that hunts down prime numbers between 1 and 250
     # afterwards output them into results.txt
@@ -44,7 +49,7 @@
     if __name__ == "__main__":
         main()
     ```  
-   
+   Save and exit nano
 3. Run the script
    ``` bash
    python3 prime_and_proper.py
@@ -68,3 +73,5 @@ Displaying the results from results.txt
 
 
 ## Takeaways
+Using nano editor, I had forgotten that to save and exit we press CTRL + O (that’s the letter O, not zero) and then press Enter to confirm.<br>
+To exit without saving, we press CTRL + X .
