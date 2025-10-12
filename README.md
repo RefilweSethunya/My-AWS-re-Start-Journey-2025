@@ -31,8 +31,11 @@ It serves as:
 ### ECommerce Platform Architecture
 - **Goal:** Design a scalable, secure, highly available AWS architecture for a global e-commerce web application
 - **Highlights:** Multi-AZ deployment, auto-scaling, CDN caching, IAM security, cost-optimized managed services
-[<img src="/awsrestart-main/projects/project-1/ecommerceapplication.drawio.png" alt="3D E-Commerce Architecture" width="600"/>](/awsrestart-main/project-1/ecommerceapplication.drawio.svg)
+[<img src="/awsrestart-main/projects/project-1/ecommerceapplication.drawio.png" alt="3D E-Commerce Architecture" width="600"/>](/awsrestart-main/projects/project-1/ecommerceapplication.drawio.svg)
 - [View Project](/awsrestart-main/projects/project-1/README.md)
+
+### Build a Chatbot
+###
 
 ---
 
