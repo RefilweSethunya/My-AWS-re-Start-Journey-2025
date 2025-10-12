@@ -34,8 +34,9 @@ It serves as:
 [<img src="/awsrestart-main/projects/project-1/ecommerceapplication.drawio.png" alt="3D E-Commerce Architecture" width="600"/>](/awsrestart-main/projects/project-1/ecommerceapplication.drawio.svg)
 - [View Project](/awsrestart-main/projects/project-1/README.md)
 
-### Build a Chatbot
-###
+### Interactive AWS Lex Chatbot
+- **Goal:** Build an interactive chatbot using AWS Lex with at least one intent and related utterances.
+- **Highlights:** 
 
 ---
 
