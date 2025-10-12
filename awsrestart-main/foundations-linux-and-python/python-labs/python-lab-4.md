@@ -8,16 +8,16 @@ In Python, string and numeric data types are often used in groups called collect
 2. Services > Cloud9 > reStart-python-cloud9 card > Selected it and opened IDE
 3. Created Python Exercise File
    - In the AWS Cloud9 IDE, File > New From Template > Python File.
-   - File > Save As > ListTupleDictionary.py
+   - File > Save As > `ListTupleDictionary.py`
 4. Started the terminal shell
-   - In the AWS Cloud9 IDE > Selected the (+) icon > New Terminal
-   - Displayed the present working directory and located ListTupleDictionary.py file:
+   - In the AWS Cloud9 IDE > Selected the `+` icon > New Terminal
+   - Displayed the present working directory and located `ListTupleDictionary.py` file:
      ``` bash
      pwd
      ```
 5. Introducing the list data type
    - Definined the list
-     - In the ListTupleDictionary.py file, entered the following code:
+     - In the `ListTupleDictionary.py` file, entered the following code:
        ``` python
        myFruitList = ["apple", "banana", "cherry"]
        print(myFruitList)
@@ -38,7 +38,7 @@ In Python, string and numeric data types are often used in groups called collect
      - Run the file
 6. Introducing the tuple data type. The tuple is like a list, but it can't be changed. To define a tuple, you use parentheses instead of brackets ([]) like a list.
    - Defined a tuple
-     - In the ListTupleDictionary.py file, entered the following code:
+     - In the `ListTupleDictionary.py` file, entered the following code:
        ``` python
        myFinalAnswerTuple = ("apple", "banana", "pineapple")
        print(myFinalAnswerTuple)
@@ -61,7 +61,7 @@ In Python, string and numeric data types are often used in groups called collect
    - Run the file
 7. Introducing the dictionary data type. A dictionary is a list with named positions (keys).
    - Defined a dictionary
-     - In the ListTupleDictionary.py file, entered the following code:
+     - In the `ListTupleDictionary.py` file, entered the following code:
        ``` python
        myFavoriteFruitDictionary = {
        "Akua" : "apple",
