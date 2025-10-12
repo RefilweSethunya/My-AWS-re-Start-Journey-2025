@@ -21,7 +21,7 @@ It serves as:
 - [x] Week 8 - Management Tools
 - [x] Week 9 - AWS Application & Migration Services
 - [x] Week 10 - AWS Developer Tools and Machine Learning
-- [ ] Weeks 11,12 - Final Project & Exam Prep
+- [x] Weeks 11,12 - Final Project & Exam Prep
 - [ ] AWS Certified Cloud Practitioner – Exam PASS 🎉  
 
 ---
@@ -84,7 +84,7 @@ Where I focused on individual services before, now I see the bigger picture of h
 ## Next Steps
 
 - Continue documenting daily labs and notes  
-- Build and showcase cloud projects integrating multiple AWS services  
+- Build and showcase more [cloud projects](/awsrestart-main/projects/projects.md) integrating multiple AWS services  
 - Prepare for the **AWS Certified Cloud Practitioner** exam
 - Prepare for additional AWS certifications 
 
