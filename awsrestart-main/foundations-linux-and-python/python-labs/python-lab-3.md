@@ -27,9 +27,51 @@ Learn how to use strings in python for input and output.
       myString = "This is a string."
       print(myString)
       ```
-   - Save > Run
+   - Save the file
+   - Run the file
    - Extended the Python script by using the built-in function type() to get the data type of the variable:
+     ``` python
+     print(type(myString))
+     ```
    - Converted the return value of type into a string, use the str() built-in function:
+     ``` python
+     print(myString + " is of the data type " + str(type(myString)))
+     ```
+   - Save the file
+   - Run the file
+6. Working with string concatenation
+   - Returned to the python script to create two strings and then concatenate them by entering the following code:
+      ``` python
+      firstString = "water"
+      secondString = "fall"
+      thirdString = firstString + secondString
+      print(thirdString)
+      ```
+   - Save the file
+   - Run the file
+7. Working with input strings
+   - Entered the following code in python script:
+     ``` python
+     name = input("What is your name? ")
+     ```
+   - Use the print() function to write the value of the variable to the shell:
+     ``` python
+     print(name)
+     ```
+   - Save the file
+   - Run the file
+8.  Formatting output strings
+   - Entered the following code in python script:
+     ``` python
+     color = input("What is your favorite color?  ")
+     animal = input("What is your favorite animal?  ")
+     ```
+   - Use the print() function this time with multiple variables to format a string to the shell:
+     ``` python
+     print("{}, you like a {} {}!".format(name,color,animal))
+     ```
+   - Save the file
+   - Run the file which will prompt for a name, a colour and an animal
 
 ## Challenges
 - Forgot to open port 22 in the security group
