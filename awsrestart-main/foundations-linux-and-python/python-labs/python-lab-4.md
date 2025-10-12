@@ -1,10 +1,7 @@
 # Python Lab: List, tuple, dictionary
 
 ## Objective
-In Python, string and numeric data types are often used in groups called collections. In this lab we learn about three such collections that Python supports.
-- Use the list data type<br>
-- Use the tuple data type<br>
-- Use the dictionary data type<br>
+In Python, string and numeric data types are often used in groups called collections. In this lab we learn about three such collections that Python supports: list, tuple, and dictionary
 
 ## Steps Taken
 1. Logged into AWS Management Console
