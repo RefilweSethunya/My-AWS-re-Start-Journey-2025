@@ -8,10 +8,10 @@ Learn how to mix types in a list. In this lab, we create a list with different t
 2. Services > Cloud9 > reStart-python-cloud9 card > Selected it and opened IDE
 3. Created Python Exercise File
    - In the AWS Cloud9 IDE, File > New From Template > Python File.
-   - File > Save As > CategorizingValues.py
+   - File > Save As > `categorizingvalues.py`
 4. Started the terminal shell
-   - In the AWS Cloud9 IDE > Selected the (+) icon > New Terminal
-   - Displayed the present working directory and located CategorizingValues.py file:
+   - In the AWS Cloud9 IDE > Selected the `+` icon > New Terminal
+   - Displayed the present working directory and located `categorizingvalues.py` file:
      ``` bash
      pwd
      ```
@@ -29,8 +29,7 @@ Learn how to mix types in a list. In this lab, we create a list with different t
    - Run the file
 
 ## Challenges
-- Forgot to open port 22 in the security group
-- Solved by editing the inbound rules
+- ..
 
 ## Screenshot
 _(Optional – paste image if available)_
