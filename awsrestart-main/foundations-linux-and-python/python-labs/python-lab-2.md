@@ -13,10 +13,10 @@ Explore the basic data types that are used to store numeric values.
 2. Services > Cloud9 > reStart-python-cloud9 card > Selected it and opened IDE
 3. Created Python Exercise File
    - In the AWS Cloud9 IDE, File > New From Template > Python File.
-   - File > Save As > NumericDataTypes.py
+   - File > Save As > `NumericDataTypes.py`
 4. Started the terminal shell
-   - In the AWS Cloud9 IDE > Selected the (+) icon > New Terminal
-   - Displayed the present working directory and located NumericDataTypes.py file:
+   - In the AWS Cloud9 IDE > Selected the `+` icon > New Terminal
+   - Displayed the present working directory and located `NumericDataTypes.py` file:
      ``` bash
      pwd
      ```
@@ -49,7 +49,7 @@ Explore the basic data types that are used to store numeric values.
      quit()
      ```
 6. Introducing the int data type
-   - In the NumericDataTypes.py file, entered the following code:
+   - In the `NumericDataTypes.py` file, entered the following code:
      ``` python
      print("Python has three numeric types: int, float, and complex")
      ```
