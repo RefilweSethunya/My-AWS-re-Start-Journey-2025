@@ -27,8 +27,8 @@ A section of code that compares two pieces of information is called a conditiona
      ```
    - Save the file
    - Run the file
-   - At the prompt, enter yes and press ENTER
-   - Run the file a second time, enter no and press ENTER
+   - At the prompt, enter `yes` and press ENTER
+   - Run the file a second time, enter `no` and press ENTER
 6. Working with the else statement
    - To handle the condition where the user doesn't want to ship a package, use the else statement:
      ``` python
@@ -37,22 +37,34 @@ A section of code that compares two pieces of information is called a conditiona
      ```
    - Save the file
    - Run the file
-   - At the prompt, enter no and press ENTER
-   - Run the file a second time, enter yes and press ENTER
+   - At the prompt, enter `no` and press ENTER
+   - Run the file a second time, enter `yes` and press ENTER
 7. Working with the elif statement. The elif statement always comes after an if statement and before the else statement.
     - In the Python script, enter the following code:
+         ``` python
+         userReply = input("Would you like to buy stamps, buy an envelope, or make a copy? (Enter stamps, envelope, or copy) ")
+         if userReply == "stamps":
+             print("We have many stamp designs to choose from.")
+         elif userReply == "envelope":
+             print("We have many envelope sizes to choose from.")
+         elif userReply == "copy":
+             copies = input("How many copies would you like? (Enter a number) ")
+             print("Here are {} copies.".format(copies))
+         else:
+             print("Thank you, please come again.")
+         ```
     - Save the file
     - Run the file
-    - At the prompt, enter no and press ENTER
+    - At the prompt, enter `no` and press ENTER
     - Run the file
-    - At the prompt, enter stamps and press ENTER
+    - At the prompt, enter `stamps` and press ENTER
     - Run the file a second time
-    - At the prompt, enter yes and press ENTER
-    - At the prompt, enter envelope and press ENTER
+    - At the prompt, enter `yes` and press ENTER
+    - At the prompt, enter `envelope` and press ENTER
     - Run the file a third time
-    - At the prompt, enter no and press ENTER
-    - At the prompt, enter copy and press ENTER
-    - At the prompt, enter 2 and press ENTER.
+    - At the prompt, enter `no` and press ENTER
+    - At the prompt, enter `copy` and press ENTER
+    - At the prompt, enter `2` and press ENTER.
 
 
 ## Challenges
