@@ -13,15 +13,15 @@ Learn how to use strings in python for input and output.
 2. Services > Cloud9 > reStart-python-cloud9 card > Selected it and opened IDE
 3. Created Python Exercise File
    - In the AWS Cloud9 IDE, File > New From Template > Python File.
-   - File > Save As > StringDataType.py
+   - File > Save As > `StringDataType.py`
 4. Started the terminal shell
-   - In the AWS Cloud9 IDE > Selected the (+) icon > New Terminal
-   - Displayed the present working directory and located StringDataType.py file:
+   - In the AWS Cloud9 IDE > Selected the `+` icon > New Terminal
+   - Displayed the present working directory and located `StringDataType.py` file:
      ``` bash
      pwd
      ```
 5. Introducing the string data type
-   - From the navigation pane of the IDE selected the StringDataType.py file
+   - From the navigation pane of the IDE selected the `StringDataType.py` file
    - In the file entered the code:
       ``` python
       myString = "This is a string."
