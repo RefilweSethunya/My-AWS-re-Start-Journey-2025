@@ -74,8 +74,7 @@ Learn how to use strings in python for input and output.
    - Run the file which will prompt for a name, a colour and an animal
 
 ## Challenges
-- Forgot to open port 22 in the security group
-- Solved by editing the inbound rules
+- ...
 
 ## Screenshot
 _(Optional – paste image if available)_
