@@ -1,4 +1,4 @@
-# Database Design Notes
+# Database Notes
 
 ## Concepts Covered
 - RDBMS : RDS, Aurora
