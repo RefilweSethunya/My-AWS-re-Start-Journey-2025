@@ -47,6 +47,7 @@ It serves as:
 - [Databases](/awsrestart-main/databases/topic-notes.md)
 - [Security](/awsrestart-main/security/topic-notes.md)
 - [Networking](/awsrestart-main/networking/topic-notes.md)
+- [Management, Monitoring and Automation](/awsrestart-main/management-monitoring-automation/topic-notes.md)
 
 ---
 
