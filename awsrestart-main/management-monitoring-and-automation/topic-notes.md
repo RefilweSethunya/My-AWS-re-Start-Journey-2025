@@ -1,7 +1,34 @@
-#Management, Monitoring and Automation Notes
+# Management, Monitoring and Automation Notes
 
+AWS offers multiple ways to automate and manage tasks, and choosing the right service depends on your architecture. Automation means defining tasks as code that the system executes, improving consistency and reducing manual effort. Management and monitoring services ensure visibility, control, and operational efficiency across your AWS environment.
 
+## Management Tools
+- The AWS Management Console is the primary interface for new users. It provides a web-based dashboard to manage AWS resources.  
+- As experience grows, users often switch to the AWS Command Line Interface (CLI) for faster execution, scripting, and bulk data retrieval.  
+- The CLI is essential for automating tasks and integrating AWS actions into scripts and workflows.
 
+## Monitoring Tools
+- CloudWatch collects and visualizes metrics from AWS and non-AWS services.  
+  - Create alarms that trigger actions (such as notifications) when metrics exceed thresholds.  
+  - Stores logs and extract metrics from them using metric filters.  
+- CloudTrail records all account activity and API calls made to AWS services.  
+  - By default, CloudTrail stores 90 days of management events per region.  
+  - To retain logs longer or customize what’s captured, create a trail to store data in an S3 bucket.  
+  - Trails can also stream events to CloudWatch Logs for viewing and searching.
+
+## Approaches to Automation
+- Imperative Approach:  
+  Specifies how to perform a task step by step.  
+  - Examples: AWS Systems Manager, CodeBuild, CodeDeploy, EC2 Userdata scripts.  
+  - Commonly seen in Bash or PowerShell scripts.
+
+- Declarative Approach:  
+  Specifies what the end result should look like.  
+  - Examples: AWS CloudFormation, OpsWorks for Puppet Enterprise, OpsWorks for Chef Automate, OpsWorks Stacks.  
+  - The system handles the step-by-step execution to reach the desired state.
+
+## Reflection
+Effective management, monitoring, and automation are central to maintaining a healthy AWS environment. The Management Console and CLI offer flexibility for both beginners and advanced users. Monitoring tools like CloudWatch and CloudTrail provide visibility and accountability for performance and security. Automation bridges the gap by ensuring repeatable, consistent configurations across services. Together, these capabilities enable organizations to build scalable, resilient, and well-governed cloud infrastructures.
 
 ## Exam Essentials
 Understand how to use Trusted Advisor for alerts to common system misconfigurations.<br>
