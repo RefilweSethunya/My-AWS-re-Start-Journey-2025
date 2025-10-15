@@ -35,9 +35,20 @@ It serves as:
 - [View Project](/awsrestart-main/projects/project-1/README.md)
 
 ### Interactive AWS Lex Chatbot
-- **Goal:** Build an interactive chatbot using AWS Lex with at least one intent and related utterances.
-- **Highlights:** 
+- **Goal:** Build an intelligent chatbot using Amazon Lex to simulate real-world customer support scenarios.  
+- **Highlights:**
+- [View Project](/awsrestart-main/projects/project-2/README.md)
 
+## Event Announcement System
+- **Goal:** Develop an event notification system to send automated alerts and reminders to registered users via email and SMS.
+- **Highlights:**
+- [View Project](/awsrestart-main/projects/project-3/README.md)
+
+## Medical Care System
+- **Goal:** Implement a cloud-based healthcare management solution for secure patient data handling and appointment tracking.
+- **Highlights:**
+- [View Project](/awsrestart-main/projects/project-4/README.md)
+  
 ---
 
 ## Topics Covered
@@ -52,6 +63,7 @@ It serves as:
 ---
 
 ## AWS Skills Builder Courses
+
 A growing collection of courses I’ve completed on AWS Skills Builder as part of my AWS learning journey.  
   
 Status | Course Name | Key Takeaway
@@ -63,7 +75,8 @@ Status | Course Name | Key Takeaway
 🟡     | AWS SimuLearn: Networking Concepts | In Progress
 🟡     | AWS SimuLearn: Core Security Concepts| In Progress
 
-## Certificates  
+## Certificates
+
 All completed course certificates (PDFs) can be accessed here: 
 - AWS Compute Services Overview [View Certificate](/awsrestart-main/certifications-and-courses/certificates/aws-compute-services-overview.pdf)
 - Introduction to AWS Identity and Access Management (IAM) [View Certificate](/awsrestart-main/certifications-and-courses/certificates/introduction-to-aws-iam.pdf)
