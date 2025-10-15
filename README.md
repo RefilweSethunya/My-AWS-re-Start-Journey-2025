@@ -37,16 +37,29 @@ It serves as:
 ### Interactive AWS Lex Chatbot
 - **Goal:** Build an intelligent chatbot using Amazon Lex to simulate real-world customer support scenarios.  
 - **Highlights:**
+  - Configured intents, slots, and utterances for natural language understanding.  
+  - Integrated AWS Lambda for backend logic (order tracking and FAQs).  
+  - Connected to Amazon Polly for text-to-speech output.  
+  - Deployed on AWS Amplify for user testing
 - [View Project](/awsrestart-main/projects/project-2/README.md)
 
-## Event Announcement System
+### Event Announcement System
 - **Goal:** Develop an event notification system to send automated alerts and reminders to registered users via email and SMS.
 - **Highlights:**
+  - Event-driven design using Amazon SNS, SQS, and Lambda.  
+  - DynamoDB for storing event metadata and user subscriptions.  
+  - Integrated CloudWatch Events to trigger notifications on schedule.  
+  - Focused on reliability, scalability, and cost efficiency.  
 - [View Project](/awsrestart-main/projects/project-3/README.md)
 
-## Medical Care System
+### Medical Care System
 - **Goal:** Implement a cloud-based healthcare management solution for secure patient data handling and appointment tracking.
 - **Highlights:**
+  - Amazon RDS (MySQL) for structured patient data and records.  
+  - AWS Cognito for secure user authentication (doctors, patients, admins).  
+  - S3 for encrypted storage of medical reports and images.  
+  - API Gateway + Lambda for serverless API endpoints.  
+  - Designed with HIPAA-style compliance and role-based access in mind.
 - [View Project](/awsrestart-main/projects/project-4/README.md)
   
 ---
