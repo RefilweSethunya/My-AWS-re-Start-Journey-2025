@@ -8,6 +8,7 @@ This portfolio highlights my hands-on projects. Click the links to view detailed
 | 2 | Interactive Chatbot | Serverless & AI Integration | Built using AWS Lambda and Amazon Lex for conversational interfaces. Integrated with API Gateway, Amazon Polly, and S3 for content and session handling. | [View Project](../projects/project-2/README.md) |
 | 3 | Event Announcement System | Serverless Event-Driven Architecture | Serverless email notification system using S3, API Gateway, Lambda, and SNS. Events persisted as JSON in S3 for simplicity and durability. | [View Project](../projects/project-3/README.md) |
 | 4 | Medical Care System | Cloud Infrastructure & High Availability | Multi-AZ deployment with Auto Scaling EC2 instances behind an Application Load Balancer. Integrated Route 53 for DNS and failover routing, RDS (Multi-AZ) for resilient data storage, and EFS for shared storage across instances. Monitored with CloudWatch for operational visibility. | [View Project](../projects/project-4/README.md) |
+| 5 | TBD | TBD | TBD | TBD |
 
 ---
 
