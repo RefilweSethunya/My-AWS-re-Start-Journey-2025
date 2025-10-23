@@ -22,7 +22,20 @@ It serves as:
 - [x] Week 9 - AWS Application & Migration Services
 - [x] Week 10 - AWS Developer Tools and Machine Learning
 - [x] Weeks 11,12 - Final Project & Exam Prep
-- [x] AWS Certified Cloud Practitioner – Exam PASS 🎉  
+- [x] AWS Certified Cloud Practitioner – Exam PASSED 🎉  
+<p align="center">
+  <a href="https://www.credly.com/badges/64964e26-5774-4816-95ca-9fde7fe06ea5/public_url">
+    <img src="https://images.credly.com/size/220x220/images/6847fdd1-1a79-4ef7-b12f-1f8d4d41c1a2/image.png" 
+         alt="AWS Certified Cloud Practitioner Badge" width="120">
+  </a>
+</p>
+
+<p align="center">
+  <b>AWS Certified Cloud Practitioner (CLF-C02)</b><br>
+  <i>Issued October 2025 • Verified by Credly</i><br>
+  <a href="https://www.credly.com/badges/64964e26-5774-4816-95ca-9fde7fe06ea5/public_url">View Credential →</a>
+</p>
+
 
 ---
 
@@ -123,9 +136,9 @@ Where I focused on individual services before, now I see the bigger picture of h
 
 ## Next Steps
 
-- Continue documenting daily labs and notes  
+- Continue documenting daily labs and AWS learning  
 - Build and showcase more [cloud projects](/awsrestart-main/projects/projects.md) integrating multiple AWS services  
-- Prepare for the **AWS Certified Cloud Practitioner** exam
+- Deepen cloud expertise by preparing for AWS Certified Solutions Architect – Associate (SAA-C03)
 - Prepare for additional AWS certifications 
 
 ---
