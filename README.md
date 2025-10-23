@@ -25,8 +25,8 @@ It serves as:
 - [x] AWS Certified Cloud Practitioner – Exam PASSED 🎉  
 <p align="center">
   <a href="https://www.credly.com/badges/64964e26-5774-4816-95ca-9fde7fe06ea5/public_url">
-    <img src="https://images.credly.com/size/220x220/images/6847fdd1-1a79-4ef7-b12f-1f8d4d41c1a2/image.png" 
-         alt="AWS Certified Cloud Practitioner Badge" width="120">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" 
+         alt="AWS Certified Cloud Practitioner Badge" width="240">
   </a>
 </p>
 
