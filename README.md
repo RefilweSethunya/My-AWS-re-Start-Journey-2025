@@ -22,7 +22,7 @@ It serves as:
 - [x] Week 9 - AWS Application & Migration Services
 - [x] Week 10 - AWS Developer Tools and Machine Learning
 - [x] Weeks 11,12 - Final Project & Exam Prep
-- [ ] AWS Certified Cloud Practitioner – Exam PASS 🎉  
+- [x] AWS Certified Cloud Practitioner – Exam PASS 🎉  
 
 ---
 
