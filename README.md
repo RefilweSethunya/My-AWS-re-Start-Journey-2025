@@ -5,7 +5,7 @@ This repo contains my personal notes, completed labs and projects demonstrating 
 It serves as:  
 - A **knowledge base** I can refer back to  
 - A **portfolio** showcasing my [labs](/awsrestart-main/labs/labs-index.md), [projects](/awsrestart-main/projects/projects.md) and progress  
-- Evidence of my **commitment to continuous learning** in cloud and IT
+- Evidence of my commitment to continuous learning in cloud and IT
 
 ---
 
