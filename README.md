@@ -112,7 +112,7 @@ Status | Course Name | Key Takeaway
 ✅     | Introduction to Containers | I grasped Docker basics and AWS container services (ECS/EKS)
 ✅     | AWS Cloud Quest: Cloud Practitioner | I practiced core AWS services through gamified labs
 ✅     | AWS SimuLearn: Networking Concepts | In Progress
-🟡     | AWS SimuLearn: Core Security Concepts| In Progress
+✅     | AWS SimuLearn: Core Security Concepts| In Progress
 
 ## Certificates
 
@@ -122,8 +122,8 @@ All completed course certificates (PDFs) can be accessed here:
 - Introduction to Containers [View Certificate](/awsrestart-main/certifications-and-courses/certificates/introduction-to-containers.pdf)
 - AWS Cloud Quest: Cloud Practitioner [View Certificate](/awsrestart-main/certifications-and-courses/certificates/aws-cloud-quest-cloud-practitioner.pdf)
 - AWS SimuLearn: Networking Concepts [View Certificate](/awsrestart-main/certifications-and-courses/certificates/aws-simulearn-networking-concepts.pdf)
-- AWS SimuLearn: Core Security Concepts
-- 
+- AWS SimuLearn: Core Security Concepts [View Certificate](/awsrestart-main/certifications-and-courses/certificates/aws-simulearn-core-security-concepts.pdf)
+
 ---
 
 ## Reflections
