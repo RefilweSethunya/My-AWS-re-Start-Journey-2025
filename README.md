@@ -111,8 +111,8 @@ Status | Course Name | Key Takeaway
 ✅     | Introduction to AWS Identity and Access Management (IAM) | I learned user, role, and policy management with least privilege
 ✅     | Introduction to Containers | I grasped Docker basics and AWS container services (ECS/EKS)
 ✅     | AWS Cloud Quest: Cloud Practitioner | I practiced core AWS services through gamified labs
-✅     | AWS SimuLearn: Networking Concepts | In Progress
-✅     | AWS SimuLearn: Core Security Concepts| In Progress
+✅     | AWS SimuLearn: Networking Concepts | I strengthened my understanding of VPCs, subnets, routing, and connectivity in AWS
+✅     | AWS SimuLearn: Core Security Concepts| I explored key AWS security principles, shared responsibility, and best practices for protecting workloads
 
 ## Certificates
 
