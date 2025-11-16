@@ -1,4 +1,4 @@
-# Compute Notes
+# <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/0ccb9a4f-7fbd-40c5-b85a-947d280d7463" /> Compute Notes
 
 ## What is Compute?
 
