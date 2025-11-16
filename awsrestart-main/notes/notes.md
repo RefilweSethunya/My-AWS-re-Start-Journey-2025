@@ -38,64 +38,12 @@ This file serves as the central hub for all my AWS study notes organized by doma
 </table>
 
 
-
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-top: 20px;">
-
-  <!-- Compute -->
-  <div style="text-align: center;">
-    <a href="/awsrestart-main/compute/topic-notes.md">
-      <img src="https://github.com/user-attachments/assets/0afab996-91bf-4d74-8b60-f4d25a030568"
-           alt="Compute icon" width="90" height="90"
-           style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
-    </a>
-    <div><b>Compute</b></div>
-  </div>
-
-  <!-- Databases -->
-  <div style="text-align: center;">
-    <a href="/awsrestart-main/databases/topic-notes.md">
-      <img src="https://github.com/user-attachments/assets/d997b610-d51f-4d2e-b44a-d56d483c972f"
-           alt="Databases icon" width="90" height="90"
-           style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
-    </a>
-    <div><b>Databases</b></div>
-  </div>
-
-  <!-- Security -->
-  <div style="text-align: center;">
-    <a href="/awsrestart-main/notes/security/topic-notes.md">
-      <img src="https://github.com/user-attachments/assets/f021cd1e-84bc-4957-873b-026955e2a4fb"
-           alt="Security icon" width="90" height="90"
-           style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
-    </a>
-    <div><b>Security</b></div>
-  </div>
-
-  <!-- Storage -->
-  <div style="text-align: center;">
-    <a href="/awsrestart-main/notes/storage/topic-notes.md">
-      <img src="https://github.com/user-attachments/assets/1c8ee146-24e0-4dbd-a255-cd1e3df5b471"
-           alt="Storage icon" width="90" height="90"
-           style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
-    </a>
-    <div><b>Storage</b></div>
-  </div>
-
-</div>
-
-<!-- Bottom row: MMA centered -->
-<div style="display: flex; justify-content: center; margin-top: 25px;">
-
-  <div style="text-align: center;">
-    <a href="/awsrestart-main/management-monitoring-and-automation/topic-notes.md">
-      <img src="https://github.com/user-attachments/assets/f3cfb613-47d2-4a61-826b-cf7026bc207b"
-           alt="Management, Monitoring & Automation icon" width="90" height="90"
-           style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
-    </a>
-    <div><b>Management, Monitoring & Automation</b></div>
-  </div>
-
-</div>
+- <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/0afab996-91bf-4d74-8b60-f4d25a030568" /> [Compute](../compute/topic-notes.md)
+- <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/d997b610-d51f-4d2e-b44a-d56d483c972f" /> [Databases](../databases/topic-notes.md)
+- <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/f3cfb613-47d2-4a61-826b-cf7026bc207b" /> [Management, Monitoring & Automation](../management-monitoring-and-automation/topic-notes.md)
+- <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/f021cd1e-84bc-4957-873b-026955e2a4fb" /> [Security](../security/topic-notes.md)
+- <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/1c8ee146-24e0-4dbd-a255-cd1e3df5b471" /> [Storage](../storage/topic-notes.md)
+- <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/b4212f51-8918-4213-8ddd-7a504e7af12c" /> [Networking](../networking/topic.notes.md)
 
 
 
