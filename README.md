@@ -120,8 +120,8 @@ Where I focused on individual services before, now I see the bigger picture of h
 
 ## Next Steps
 
-- Continue documenting daily labs and AWS learning  
-- Build and showcase more [cloud projects](/awsrestart-main/projects/projects.md) integrating multiple AWS services  
+- Continue documenting labs and AWS learning  
+- Build and showcase more cloud projects integrating multiple AWS services  
 - Deepen cloud expertise by preparing for AWS Certified Solutions Architect – Associate (SAA-C03)
 - Prepare for additional AWS certifications 
 
