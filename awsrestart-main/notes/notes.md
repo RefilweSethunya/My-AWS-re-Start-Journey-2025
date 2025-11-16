@@ -23,7 +23,7 @@ This file serves as the central hub for all my AWS study notes organized by doma
       <b><span style="color:#FF9900;">Security</span></b>
     </td>
     <td align="center">
-      <a href="../../security/topic-notes.md">
+      <a href="../../awsrestart-main/security/topic-notes.md">
         <img width="120" height="120" src="https://github.com/user-attachments/assets/1c8ee146-24e0-4dbd-a255-cd1e3df5b471" alt="Storage icon">
       </a><br>
       <b><span style="color:#FF9900;">Storage</span></b>
