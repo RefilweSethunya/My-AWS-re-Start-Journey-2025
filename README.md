@@ -5,6 +5,9 @@
 Welcome!
 This repo contains my personal notes, completed labs and projects demonstrating applied AWS skills from the AWS re/Start program.
 
+To know more about the AWS re/Start program, visit the official page
+AWS re/Start
+
 It serves as:  
 - A **knowledge base** I can refer back to  
 - A **portfolio** showcasing my [labs](/awsrestart-main/labs/labs-index.md), [projects](/awsrestart-main/projects/projects.md) and progress  
