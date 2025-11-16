@@ -1,4 +1,4 @@
-# Storage Notes
+# <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/61d576aa-d0d1-4d50-a1a8-d744469e272c" /> Storage Notes
 
 ## Primary Storage Types
 - Object storage
