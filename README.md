@@ -50,7 +50,9 @@ It serves as:
 
 ## Topics Covered
 
-<table>
+<div align="center">
+
+ <table>
   <tr>
     <td align="center">
       <b>Compute<br></b><br>
@@ -78,6 +80,8 @@ It serves as:
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
