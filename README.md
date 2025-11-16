@@ -75,7 +75,7 @@ It serves as:
       <img width="90" height="90" src="https://github.com/user-attachments/assets/b4212f51-8918-4213-8ddd-7a504e7af12c" alt="Networking Icon" />
     </td>
     <td align="center">
-      <b>Monitoring, Management <br>& Automation</b><br>
+      <b>Monitoring, Management &<br> Automation</b><br>
       <img width="90" height="90" src="https://github.com/user-attachments/assets/f3cfb613-47d2-4a61-826b-cf7026bc207b" alt="MMA Icon" />
     </td>
   </tr>
