@@ -1,4 +1,4 @@
-# Networking Notes
+# <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/25d966c9-9276-4b65-bc6e-0db88b0b7e3f" /> Networking Notes
 
 ## Virtual Private Cloud (VPC)
 - Amazon VPC provides the virtual network infrastructure for AWS resources, logically isolated.  
