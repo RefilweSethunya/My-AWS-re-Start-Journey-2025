@@ -53,49 +53,18 @@ It serves as:
 
 ### ECommerce Platform Architecture
 - **Goal:** Design a scalable, secure, highly available AWS architecture for a global e-commerce web application
-- **Highlights:**
-  - Multi-AZ architecture ensuring fault tolerance and business continuity.
-  - Elastic Load Balancer (ALB) distributes web traffic across multiple EC2 instances for performance and high availability.
-  - Auto Scaling Group dynamically adjusts compute capacity based on demand.
-  - Amazon RDS (Multi-AZ) for reliable and consistent transaction data management.
-  - Amazon CloudFront (CDN) accelerates global content delivery and improves user experience.
-  - Amazon S3 hosts static content such as product images, scripts, and stylesheets.
-  - AWS Cognito provides user authentication and access control for customers and administrators.
-  - AWS WAF and Security Groups protect against common web exploits and malicious traffic.
-  - Amazon CloudWatch and AWS CloudTrail enable monitoring, logging, and auditing across infrastructure components.
-  - IAM roles and policies enforce least-privilege access and operational security best practices.
-[<img src="/awsrestart-main/projects/project-1/ecommerceapplication.drawio.png" alt="3D E-Commerce Architecture" width="600"/>](/awsrestart-main/projects/project-1/ecommerceapplication.drawio.svg)
 - [View Project](/awsrestart-main/projects/project-1/README.md)
 
 ### Interactive AWS Lex Chatbot
 - **Goal:** Build an intelligent chatbot using Amazon Lex to simulate real-world customer support scenarios.  
-- **Highlights:**
-  - Configured intents, slots, and utterances for natural language understanding.  
-  - Integrated AWS Lambda for backend logic (order tracking and FAQs).  
-  - Connected to Amazon Polly for text-to-speech output.  
-  - Deployed on AWS Amplify for user testing
 - [View Project](/awsrestart-main/projects/project-2/README.md)
 
 ### Event Announcement System
-- **Goal:** Develop an event notification system to send automated alerts and reminders to registered users via email and SMS.
-- **Highlights:**
-  - Static frontend hosted in Amazon S3 with API endpoints exposed via Amazon API Gateway.  
-  - Two AWS Lambda functions — one to manage user subscriptions, another to handle event registration and JSON updates.  
-  - Events stored in an S3 bucket as JSON files for simplicity and durability.  
-  - Email notifications managed via Amazon Simple Notification Service (SNS).  
-  - Fully serverless, cost-efficient, and scalable architecture for event-driven communication.   
+- **Goal:** Develop an event notification system to send automated alerts and reminders to registered users via email and SMS.  
 - [View Project](/awsrestart-main/projects/project-3/README.md)
 
 ### Medical Care System
 - **Goal:** Implement a cloud-based healthcare management solution for secure patient data handling and appointment tracking.
-- **Highlights:**
-  - Configured an EC2 launch template with Auto Scaling Groups across multiple Availability Zones for fault tolerance.  
-  - Set up an Application Load Balancer (ALB) to distribute incoming traffic and monitor instance health.  
-  - Integrated Amazon Cognito for user authentication and role-based access control (doctors, patients, and admins).  
-  - Deployed a Multi-AZ Amazon RDS database for continuous availability and failover resilience.  
-  - Configured Route 53 with health checks and failover routing for DNS-level reliability.  
-  - Added Amazon EFS for scalable, shared file storage across EC2 instances.  
-  - Designed to maintain uptime, data integrity, and security compliance in a healthcare environment.  
 - [View Project](/awsrestart-main/projects/project-4/README.md)
   
 ---
