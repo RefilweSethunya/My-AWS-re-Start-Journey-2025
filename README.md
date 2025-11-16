@@ -129,12 +129,12 @@ Status | Course Name | Key Takeaway
 
 All completed course certificates (PDFs) can be accessed here: 
 
-- AWS Compute Services Overview [![View Certificate](https://img.shields.io/badge/View%20Certificate-6B46C1?style=for-the-badge)](/awsrestart-main/certifications-and-courses/certificates/aws-compute-services-overview.pdf)
-- Introduction to AWS Identity and Access Management (IAM) [![View Certificate](https://img.shields.io/badge/View%20Certificate-6B46C1?style=for-the-badge)](/awsrestart-main/certifications-and-courses/certificates/introduction-to-aws-iam.pdf)
-- Introduction to Containers [![View Certificate](https://img.shields.io/badge/View%20Certificate-6B46C1?style=for-the-badge)](/awsrestart-main/certifications-and-courses/certificates/introduction-to-containers.pdf)
-- AWS Cloud Quest: Cloud Practitioner [![View Certificate](https://img.shields.io/badge/View%20Certificate-6B46C1?style=for-the-badge)](/awsrestart-main/certifications-and-courses/certificates/aws-cloud-quest-cloud-practitioner.pdf)
-- AWS SimuLearn: Networking Concepts [![View Certificate](https://img.shields.io/badge/View%20Certificate-6B46C1?style=for-the-badge)](/awsrestart-main/certifications-and-courses/certificates/aws-simulearn-networking-concepts.pdf)
-- AWS SimuLearn: Core Security Concepts [![View Certificate](https://img.shields.io/badge/View%20Certificate-6B46C1?style=for-the-badge)](/awsrestart-main/certifications-and-courses/certificates/aws-simulearn-core-security-concepts.pdf)
+- [![View Certificate](https://img.shields.io/badge/View%20Certificate-6B46C1?style=for-the-badge)](/awsrestart-main/certifications-and-courses/certificates/aws-compute-services-overview.pdf) AWS Compute Services Overview 
+- [![View Certificate](https://img.shields.io/badge/View%20Certificate-6B46C1?style=for-the-badge)](/awsrestart-main/certifications-and-courses/certificates/introduction-to-aws-iam.pdf) Introduction to AWS Identity and Access Management (IAM)
+- [![View Certificate](https://img.shields.io/badge/View%20Certificate-6B46C1?style=for-the-badge)](/awsrestart-main/certifications-and-courses/certificates/introduction-to-containers.pdf) Introduction to Containers
+- [![View Certificate](https://img.shields.io/badge/View%20Certificate-6B46C1?style=for-the-badge)](/awsrestart-main/certifications-and-courses/certificates/aws-cloud-quest-cloud-practitioner.pdf) AWS Cloud Quest: Cloud Practitioner
+- [![View Certificate](https://img.shields.io/badge/View%20Certificate-6B46C1?style=for-the-badge)](/awsrestart-main/certifications-and-courses/certificates/aws-simulearn-networking-concepts.pdf) AWS SimuLearn: Networking Concepts 
+- [![View Certificate](https://img.shields.io/badge/View%20Certificate-6B46C1?style=for-the-badge)](/awsrestart-main/certifications-and-courses/certificates/aws-simulearn-core-security-concepts.pdf) AWS SimuLearn: Core Security Concepts
 
 ---
 
