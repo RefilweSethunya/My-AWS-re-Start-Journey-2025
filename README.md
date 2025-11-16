@@ -14,8 +14,7 @@ It serves as:
 - A **portfolio** showcasing my [labs](/awsrestart-main/labs/labs-index.md), [projects](/awsrestart-main/projects/projects.md) and progress  
 - Evidence of my commitment to continuous learning in cloud and IT
 
-[![Notes](https://img.shields.io/badge/Notes-6B46C1?style=for-the-badge)](/awsrestart-main/notes/notes.md)
- [![Notes](https://img.shields.io/badge/Notes-FF9900?style=for-the-badge)](/awsrestart-main/notes/notes.md)
+[![Notes](https://img.shields.io/badge/Notes-FF9900?style=for-the-badge)](/awsrestart-main/notes/notes.md)
  [![Labs](https://img.shields.io/badge/Labs-FF9900?style=for-the-badge)](/awsrestart-main/labs/labs-index.md) [![Projects](https://img.shields.io/badge/Projects-FF9900?style=for-the-badge)](/awsrestart-main/projects/projects.md)
 
 ---
