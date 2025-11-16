@@ -46,27 +46,6 @@ It serves as:
   <a href="https://www.credly.com/badges/64964e26-5774-4816-95ca-9fde7fe06ea5/public_url">View Credential →</a>
 </p>
 
-
----
-
-## Projects Showcase
-
-### ECommerce Platform Architecture
-- **Goal:** Design a scalable, secure, highly available AWS architecture for a global e-commerce web application
-- [View Project](/awsrestart-main/projects/project-1/README.md)
-
-### Interactive AWS Lex Chatbot
-- **Goal:** Build an intelligent chatbot using Amazon Lex to simulate real-world customer support scenarios.  
-- [View Project](/awsrestart-main/projects/project-2/README.md)
-
-### Event Announcement System
-- **Goal:** Develop an event notification system to send automated alerts and reminders to registered users via email and SMS.  
-- [View Project](/awsrestart-main/projects/project-3/README.md)
-
-### Medical Care System
-- **Goal:** Implement a cloud-based healthcare management solution for secure patient data handling and appointment tracking.
-- [View Project](/awsrestart-main/projects/project-4/README.md)
-  
 ---
 
 ## Topics Covered
