@@ -1,4 +1,4 @@
-# Database Notes
+# <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/1f556617-c77d-4020-9287-f06ed9d1eb03" /> Database Notes
 
 ## Concepts Covered
 - RDBMS : RDS, Aurora
