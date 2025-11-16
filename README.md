@@ -12,7 +12,8 @@ To know more about the AWS re/Start program, visit the official page
 It serves as:  
 - A **knowledge base** I can refer back to  
 - A **portfolio** showcasing my [![Labs](https://img.shields.io/badge/Labs-FF9900?style=for-the-badge)](/awsrestart-main/labs/labs-index.md)
-, [projects](/awsrestart-main/projects/projects.md) and progress  
+, [![Projects](https://img.shields.io/badge/Projects-FF9900?style=for-the-badge)](/awsrestart-main/projects/projects.md)
+and progress  
 - Evidence of my commitment to continuous learning in cloud and IT
 
 ---
