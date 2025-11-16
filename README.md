@@ -1,5 +1,8 @@
+<img width="1200" height="250" alt="image" src="https://github.com/user-attachments/assets/41433a61-8f32-41a2-b7b1-65ddc676d384" />
+
 # My AWS re/Start Journey 2025
 
+Welcome!
 This repo contains my personal notes, completed labs and projects demonstrating applied AWS skills from the AWS re/Start program.
 
 It serves as:  
@@ -101,7 +104,8 @@ It serves as:
 
 ---
 
-## AWS Skills Builder Courses
+## <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/3016bf4e-af30-45e0-8cda-1f205511fef8" /> AWS Skills Builder Courses 
+
 
 A growing collection of courses I’ve completed on AWS Skills Builder as part of my AWS learning journey.  
   
@@ -145,10 +149,14 @@ Where I focused on individual services before, now I see the bigger picture of h
 
 ---
 
-## Resources
+## Learning Resources
 
 - [AWS Training & Certification](https://aws.amazon.com/training/)  
 - [AWS Documentation](https://docs.aws.amazon.com/)  
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
 - [AWS Skills Builder Training](https://explore.skillbuilder.aws/)
 - [More Resources](/awsrestart-main/resources/helpful-links.md)
+
+## Found this repo useful?
+
+Give us a ⭐ by clicking the "Star" button at the top-right of this page to show your support and help others discover these resources.
