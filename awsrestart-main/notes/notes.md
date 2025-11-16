@@ -5,7 +5,7 @@ This file serves as the central hub for all my AWS study notes organized by doma
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center">
-      <a href="/awsrestart-main/compute/topic-notes.md">
+      <a href="../compute/topic-notes.md">
         <img width="120" height="120" src="https://github.com/user-attachments/assets/0afab996-91bf-4d74-8b60-f4d25a030568" alt="Compute icon">
       </a><br>
       <b><span style="color:#FF9900;">Compute</span></b>
