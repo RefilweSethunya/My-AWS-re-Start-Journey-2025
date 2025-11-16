@@ -1,4 +1,4 @@
-<img width="1200" height="250" alt="image" src="https://github.com/user-attachments/assets/41433a61-8f32-41a2-b7b1-65ddc676d384" />
+<img width="1200" height="260" alt="image" src="https://github.com/user-attachments/assets/41433a61-8f32-41a2-b7b1-65ddc676d384" />
 
 # My AWS re/Start Journey 2025
 
