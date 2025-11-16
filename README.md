@@ -6,7 +6,8 @@ Welcome!
 This repo contains my personal notes, completed labs and projects demonstrating applied AWS skills from the AWS re/Start program.
 
 To know more about the AWS re/Start program, visit the official page
-AWS re/Start
+[![AWS re/Start Program](https://img.shields.io/badge/AWS%20re%2FStart%20Program-FF9900?style=for-the-badge)](https://aws.amazon.com/training/restart/)
+
 
 It serves as:  
 - A **knowledge base** I can refer back to  
