@@ -1,4 +1,4 @@
-# Management, Monitoring and Automation Notes
+# <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/bddbfa24-4002-4033-829e-4bccdcaea298" /> Management, Monitoring and Automation Notes
 
 AWS offers multiple ways to automate and manage tasks, and choosing the right service depends on your architecture. Automation means defining tasks as code that the system executes, improving consistency and reducing manual effort. Management and monitoring services ensure visibility, control, and operational efficiency across your AWS environment.
 
