@@ -53,31 +53,28 @@ It serves as:
 <table>
   <tr>
     <td align="center">
-      <b>Compute</b><br>
+      <b>Compute<br></b><br>
       <img width="90" height="90" src="https://github.com/user-attachments/assets/0afab996-91bf-4d74-8b60-f4d25a030568" alt="Compute Icon" />
     </td>
     <td align="center">
-      <b>Databases</b><br>
+      <b>Databases<br></b><br>
       <img width="90" height="90" src="https://github.com/user-attachments/assets/d997b610-d51f-4d2e-b44a-d56d483c972f" alt="Databases Icon" />
     </td>
     <td align="center">
-      <b>Storage</b><br>
+      <b>Storage<br></b><br>
       <img width="90" height="90" src="https://github.com/user-attachments/assets/1c8ee146-24e0-4dbd-a255-cd1e3df5b471" alt="Storage Icon" />
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
-      <b>MMA</b><br>
-      <img width="90" height="90" src="https://github.com/user-attachments/assets/f3cfb613-47d2-4a61-826b-cf7026bc207b" alt="MMA Icon" />
-    </td>
-    <td align="center">
-      <b>Security</b><br>
+      <b>Security<br></b><br>
       <img width="90" height="90" src="https://github.com/user-attachments/assets/f021cd1e-84bc-4957-873b-026955e2a4fb" alt="Security Icon" />
     </td>
     <td align="center">
-      <b>Networking</b><br>
+      <b>Networking<br></b><br>
       <img width="90" height="90" src="https://github.com/user-attachments/assets/b4212f51-8918-4213-8ddd-7a504e7af12c" alt="Networking Icon" />
+    </td>
+    <td align="center">
+      <b>Monitoring, Management <br>& Automation</b><br>
+      <img width="90" height="90" src="https://github.com/user-attachments/assets/f3cfb613-47d2-4a61-826b-cf7026bc207b" alt="MMA Icon" />
     </td>
   </tr>
 </table>
