@@ -2,8 +2,7 @@
 
 This file serves as the central hub for all my AWS study notes organized by domain to make it easy to navigate through the concepts.
 
-
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center">
       <a href="/awsrestart-main/compute/topic-notes.md">
@@ -27,7 +26,6 @@ This file serves as the central hub for all my AWS study notes organized by doma
     </td>
   </tr>
 
-  <!-- MERGED ROW -->
   <tr>
     <td colspan="4" align="center">
       <a href="/awsrestart-main/management-monitoring-and-automation/topic-notes.md">
@@ -37,5 +35,3 @@ This file serves as the central hub for all my AWS study notes organized by doma
     </td>
   </tr>
 </table>
-
-
