@@ -38,7 +38,7 @@ This file serves as the central hub for all my AWS study notes organized by doma
     </td>
     <td align="center">
       <b>Networking</b><br>
-      <a href="../networking/topic.notes.md">
+      <a href="../networking/topic-notes.md">
         <img width="170" height="170" src="https://github.com/user-attachments/assets/b4212f51-8918-4213-8ddd-7a504e7af12c" alt="Networking Icon" />
       </a>
     </td>
