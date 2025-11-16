@@ -1,4 +1,4 @@
-# Security Notes
+# <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/77dd010c-feb1-44b9-bd29-75a0eb3580c3" /> Security Notes
 
 ## User Authentication
 - Enforce strong passwords by creating an IAM password policy. 
