@@ -16,6 +16,8 @@ It serves as:
 and progress  
 - Evidence of my commitment to continuous learning in cloud and IT
 
+ [![Labs](https://img.shields.io/badge/Labs-FF9900?style=for-the-badge)](/awsrestart-main/labs/labs-index.md) [![Projects](https://img.shields.io/badge/Projects-FF9900?style=for-the-badge)](/awsrestart-main/projects/projects.md)
+
 ---
 
 ## Progress Tracker
