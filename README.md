@@ -140,4 +140,4 @@ Where I focused on individual services before, now I see the bigger picture of h
 
 ## Found this repo useful?
 
-Give us a ⭐ by clicking the "Star" button at the top-right of this page to show your support and help others discover these resources.
+Give me a ⭐ by clicking the "Star" button at the top-right of this page to show your support and help others discover these resources.
