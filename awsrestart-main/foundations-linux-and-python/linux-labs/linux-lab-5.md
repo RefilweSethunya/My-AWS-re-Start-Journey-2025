@@ -31,16 +31,16 @@ The specific folder structure A provided as below:<br>
    - Created all the sub folders by running `mkdir Finance HR Management`.
    - Changed directory to the HR directory, enter `cd HR` and press Enter.
    - Created the empty files inside the HR folder, enter `touch Assessments.csv TrialPeriod.csv` and press Enter.
-   - Run `ls`to validate that the files were created.
+   - Run `ls` to validate that the files were created.
    - Changed directory to the Finance directory, enter `cd Finance` and press Enter.
    - Created the empty files inside the HR folder, enter `touch Salary.csv  ProfitAndLossStatements.csv` and press Enter.
    - Run `ls`to validate that the files were created.
-   - Changed directory back one level to the CompanyA folder, enter `cd..`
+   - Changed directory back one level to the CompanyA folder, entered `cd..`
    - This time to create the new empty files in the Management folder, enter `touch Management/Managers.csv Management/Schedule.csv` and pressed Enter.
    - Run `ls Management` to validate that the files were created.
-   - Validated that all the files and folders from the CompanyA folder down have been created, enter ls -laR
+   - Validated that all the files and folders from the CompanyA folder down have been created, running `ls -laR`
 
-6. Deleted and reorganized folders to reflect Structure B.
+6. Deleted and reorganized folders to reflect Folder Structure B.
    - Copy the Finance folder and its content to the HR folder and remove the previous Finance folder:
      ```bash
      cp -r Finance HR
@@ -64,6 +64,14 @@ The specific folder structure A provided as below:<br>
 - ...
 
 ## Screenshot
-_(Optional – paste image if available)_
+<img width="1155" height="645" alt="image" src="https://github.com/user-attachments/assets/838de5ea-8b51-4b3b-9cf5-5f6025b7cc48" />
+<img width="1142" height="424" alt="image" src="https://github.com/user-attachments/assets/f6fac059-2b46-470b-acfe-89c6c165a1ac" />
+<img width="1164" height="496" alt="image" src="https://github.com/user-attachments/assets/609853e5-10e4-4c2f-b8f9-0e61ec6406c0" />
+
 
 ## Takeaways
+rmdir works only on an empty directory.<br>
+Therefore to remove the folder, you have two options:
+<br>
+1. Remove the files inside the folder and then remove the Finance folder.
+2. Use the rm command with the -r option to recursively delete the folder and its content.
