@@ -39,7 +39,6 @@ The specific folder structure A provided as below:<br>
    - This time to create the new empty files in the Management folder, enter `touch Management/Managers.csv Management/Schedule.csv` and pressed Enter.
    - Run `ls Management` to validate that the files were created.
    - Validated that all the files and folders from the CompanyA folder down have been created, running `ls -laR`
-
 6. Deleted and reorganized folders to reflect Folder Structure B.
    - Copy the Finance folder and its content to the HR folder and remove the previous Finance folder:
      ```bash
@@ -58,8 +57,7 @@ The specific folder structure A provided as below:<br>
      mv Assessments.csv TrialPeriod.csv Employees
      ls . Employees
      ```
-
-
+     
 ## Challenges
 - ...
 
